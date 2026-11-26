@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/SUMMING/M477/MANUALS/1979 - M477 - Master Module (2).pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/a0934950edc660b4-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1458, 2000],
+  "mm": [314.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.3, 4.5, 313.7, 429.9],
+ "outlines": {
+  "line": {"rings": 123, "straight": {"n": 1908, "mm": 4439.1}, "curved": {"n": 364, "mm": 559.8}},
+  "text": {"rings": 81, "straight": {"n": 742, "mm": 1146.9}, "curved": {"n": 146, "mm": 249.1}}
+ },
+ "circles": [{"c": [270.0, 405.0], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [25.5, 404.2, 273.1, 422.5], "text": "['NElS) 84'1 maGPFG9 AvENUE. QCARBORO....I(jH, 4'1a lo>3B-t'l!lo!lO"},
+   {"mm": [104.3, 416.9, 209.6, 424.6], "text": "WARD-BECK YS"},
+   {"mm": [251.3, 416.9, 272.7, 424.6], "text": "LTD"},
+   {"mm": [221.5, 410.2, 245.9, 414.3], "text": "ONTARIO"},
+   {"mm": [104.3, 404.2, 158.0, 408.2], "text": "TEU\"x 00'Ie -2l5389"},
+   {"mm": [196.0, 403.9, 230.1, 408.0], "text": "Ta.EF'HONE'"},
+   {"mm": [130.2, 246.1, 181.6, 256.9], "text": "M477"},
+   {"mm": [123.5, 233.6, 189.1, 240.3], "text": "MASTER MODULE"},
+   {"mm": [268.6, 54.0, 288.2, 62.4], "text": "ps"},
+   {"mm": [257.8, 43.2, 278.3, 54.0], "text": "BS"},
+   {"mm": [236.8, 22.2, 254.3, 29.0], "text": "tp"},
+   {"mm": [230.1, 15.3, 249.8, 22.0], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 315 × 432 mm, 1458 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 7–314 mm across, 4–430 mm up",
+  "- **Outlines:** line 123 rings, 1,908 straight (4,439 mm) / 364 curved (560 mm); text 81 rings, 742 straight (1,147 mm) / 146 curved (249 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.0 @ (270.0, 405.0)",
+  "- **Words (OCR):** 22 in 12 lines: ['NElS) 84'1 maGPFG9 AvENUE. QCARBORO....I(jH, 4'1a lo>3B-t'l!lo!lO · WARD-BECK YS · LTD · ONTARIO · TEU\"x 00'Ie -2l5389 · Ta.EF'HONE' · M477 · MASTER MODULE · ps · BS · tp · ht"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/SUMMING/M477/MANUALS/1979 - M477 - Master Module (2).pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/a0934950edc660b4-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1464, 2000],
+  "mm": [316.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.4, 6.5, 312.8, 422.6],
+ "outlines": {
+  "line": {"rings": 51, "straight": {"n": 997, "mm": 4073.9}, "curved": {"n": 207, "mm": 281.7}},
+  "text": {"rings": 378, "straight": {"n": 3126, "mm": 3596.7}, "curved": {"n": 849, "mm": 1075.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 64,
+  "lines": [
+   {"mm": [140.6, 393.2, 160.8, 398.7], "text": "DARTS"},
+   {"mm": [171.4, 393.2, 181.8, 398.7], "text": "IST"},
+   {"mm": [116.2, 378.5, 156.3, 384.0], "text": "8-109 AM PL"},
+   {"mm": [169.3, 378.5, 206.2, 384.0], "text": "ER SERIES"},
+   {"mm": [24.2, 363.1, 46.9, 368.7], "text": "8_I09G"},
+   {"mm": [48.4, 348.5, 54.0, 353.5], "text": "rt"},
+   {"mm": [80.1, 348.5, 106.2, 354.2], "text": "er 8-10"},
+   {"mm": [142.3, 348.5, 162.4, 354.0], "text": "88 no"},
+   {"mm": [182.4, 348.5, 192.6, 354.0], "text": "elo"},
+   {"mm": [24.8, 332.9, 37.1, 339.4], "text": "PAR"},
+   {"mm": [60.0, 333.8, 102.3, 339.3], "text": "DESCI PTI QN"},
+   {"mm": [232.7, 334.2, 241.6, 339.7], "text": "MF"},
+   {"mm": [251.5, 334.2, 263.6, 339.7], "text": "PAR"},
+   {"mm": [273.8, 334.2, 301.0, 339.7], "text": "NUMBER"},
+   {"mm": [24.8, 318.2, 32.4, 324.2], "text": "C6"},
+   {"mm": [60.5, 319.1, 95.4, 324.1], "text": "ClI. pa.;:llor-"},
+   {"mm": [125.0, 319.7, 132.6, 325.3], "text": "pF"},
+   {"mm": [180.1, 319.3, 201.4, 324.8], "text": "Ph ip"},
+   {"mm": [233.0, 319.7, 284.1, 325.3], "text": "222 2_638 _094 78"},
+   {"mm": [79.7, 296.4, 85.3, 304.1], "text": "lo"},
+   {"mm": [101.5, 297.1, 110.5, 302.8], "text": "4W"},
+   {"mm": [127.2, 297.1, 138.6, 302.8], "text": "2K4"},
+   {"mm": [25.7, 143.8, 84.6, 149.5], "text": "WBS re<:ommen ds"},
+   {"mm": [109.7, 143.8, 249.1, 149.5], "text": "se of rep lac ement pll ts mad by tbe"},
+   {"mm": [254.1, 143.8, 285.6, 149.5], "text": "ececmec"},
+   {"mm": [25.7, 136.4, 204.2, 142.0], "text": "m\"nvf ll lurer for con tinued oplimu rn equip\"\"\"\"1"},
+   {"mm": [227.6, 136.4, 255.2, 142.0], "text": "..mence."},
+   {"mm": [269.4, 54.4, 289.1, 63.0], "text": "ps"},
+   {"mm": [258.6, 43.6, 279.4, 54.4], "text": "BS"},
+   {"mm": [237.5, 22.5, 255.0, 29.2], "text": "tp"},
+   {"mm": [230.8, 15.8, 250.4, 22.5], "text": "ht"},
+   {"mm": [146.6, 6.0, 179.4, 11.3], "text": "8_10 9_2_5"}
+  ]
+ },
+ "dots": [{"c": [41.1, 351.2], "r": 1.0, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 316 × 432 mm, 1464 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–313 mm across, 6–423 mm up",
+  "- **Outlines:** line 51 rings, 997 straight (4,074 mm) / 207 curved (282 mm); text 378 rings, 3,126 straight (3,597 mm) / 849 curved (1,075 mm)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 64 in 32 lines: DARTS · IST · 8-109 AM PL · ER SERIES · 8_I09G · rt · er 8-10 · 88 no · elo · PAR · DESCI PTI QN · MF"
+ ]
+}

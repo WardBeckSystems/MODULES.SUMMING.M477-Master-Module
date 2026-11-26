@@ -1,0 +1,71 @@
+{
+ "drawing": "Modules/SUMMING/M477/MANUALS/1979 - M477 - Master Module.pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/c13e2177588009fe-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1464, 2000],
+  "mm": [316.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.4, 6.5, 312.8, 422.6],
+ "outlines": {
+  "line": {"rings": 19, "straight": {"n": 581, "mm": 3609.1}, "curved": {"n": 93, "mm": 145.5}},
+  "text": {"rings": 398, "straight": {"n": 3483, "mm": 4018.4}, "curved": {"n": 955, "mm": 1200.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 46,
+  "lines": [
+   {"mm": [139.0, 392.7, 182.4, 401.6], "text": "PARIS LiST"},
+   {"mm": [115.1, 378.9, 178.3, 385.9], "text": "8-109 AMPLIFIER"},
+   {"mm": [180.9, 377.8, 207.3, 386.0], "text": "SERIES"},
+   {"mm": [22.5, 361.6, 47.9, 370.3], "text": "8-109C"},
+   {"mm": [90.7, 348.7, 150.5, 356.3], "text": "8-109 except as"},
+   {"mm": [177.0, 349.3, 198.2, 356.3], "text": "below"},
+   {"mm": [23.1, 347.6, 71.0, 355.8], "text": "All parts 45"},
+   {"mm": [74.1, 348.0, 87.7, 354.5], "text": "per"},
+   {"mm": [153.3, 349.3, 174.4, 355.8], "text": "noted"},
+   {"mm": [23.1, 333.6, 42.1, 340.5], "text": "PART"},
+   {"mm": [58.9, 334.2, 103.2, 341.2], "text": "DESCIPTION"},
+   {"mm": [179.2, 334.6, 193.9, 341.6], "text": "MFG"},
+   {"mm": [232.1, 334.6, 269.4, 341.6], "text": "MFG PART"},
+   {"mm": [272.7, 334.9, 301.2, 341.8], "text": "NUMBER"},
+   {"mm": [23.7, 319.5, 33.5, 326.0], "text": "C6"},
+   {"mm": [58.9, 319.1, 120.5, 326.5], "text": "Capacitor 4.7"},
+   {"mm": [123.7, 319.1, 133.4, 326.5], "text": "pF"},
+   {"mm": [178.3, 319.3, 206.2, 327.5], "text": "Philips"},
+   {"mm": [231.7, 320.0, 285.2, 326.9], "text": "2222-638-09478"},
+   {"mm": [23.1, 312.0, 36.1, 318.9], "text": "C11"},
+   {"mm": [92.8, 297.9, 110.5, 304.9], "text": "/4w"},
+   {"mm": [113.3, 296.9, 139.3, 305.0], "text": "5%2K4"},
+   {"mm": [23.1, 297.3, 37.1, 304.3], "text": "RI5"},
+   {"mm": [59.4, 297.3, 89.6, 304.3], "text": "Resistor"},
+   {"mm": [24.8, 142.9, 116.8, 151.1], "text": "WBS rccommends the use"},
+   {"mm": [119.8, 143.6, 198.6, 151.2], "text": "of replacement Parts"},
+   {"mm": [201.4, 142.9, 233.6, 150.7], "text": "made by"},
+   {"mm": [236.6, 142.5, 286.9, 152.1], "text": "the specified"},
+   {"mm": [24.4, 136.4, 92.8, 143.4], "text": "manufacturers Tor"},
+   {"mm": [95.6, 135.6, 205.5, 144.0], "text": "continued optimum equipment"},
+   {"mm": [208.1, 136.0, 256.5, 144.2], "text": "performance."},
+   {"mm": [145.3, 5.4, 180.5, 12.4], "text": "8-109-2-5"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 316 × 432 mm, 1464 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–313 mm across, 6–423 mm up",
+  "- **Outlines:** line 19 rings, 581 straight (3,609 mm) / 93 curved (146 mm); text 398 rings, 3,483 straight (4,018 mm) / 955 curved (1,200 mm)",
+  "- **Words (OCR):** 46 in 32 lines: PARIS LiST · 8-109 AMPLIFIER · SERIES · 8-109C · 8-109 except as · below · All parts 45 · per · noted · PART · DESCIPTION · MFG"
+ ]
+}

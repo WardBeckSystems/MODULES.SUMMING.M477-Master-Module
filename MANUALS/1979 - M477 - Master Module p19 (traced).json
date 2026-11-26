@@ -1,0 +1,90 @@
+{
+ "drawing": "Modules/SUMMING/M477/MANUALS/1979 - M477 - Master Module.pdf",
+ "page": 19,
+ "version": 1,
+ "trace": "_traces/c13e2177588009fe-p19.svg",
+ "sheet": {
+  "number": "477-04-003",
+  "title": "Solo Switch Shio Hhen Oepressed The Output Signa",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1510, 2000],
+  "mm": [326.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "19", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.6, 0.2, 326.1, 320.2],
+ "outlines": {
+  "line": {"rings": 12, "straight": {"n": 148, "mm": 532.7}, "curved": {"n": 22, "mm": 30.5}},
+  "text": {"rings": 122, "straight": {"n": 1012, "mm": 1017.5}, "curved": {"n": 344, "mm": 475.0}},
+  "tb": {"rings": 69, "straight": {"n": 1081, "mm": 3182.1}, "curved": {"n": 143, "mm": 220.9}}
+ },
+ "circles": [],
+ "boxes": [
+  {
+   "mm": [8.2, 144.9, 119.6, 155.0],
+   "w": 111.4,
+   "h": 10.1,
+   "from": "ring",
+   "words": ["Hnen depressed_", "Shio:", "output signa", "SLO", "switch", "tnc", "S0LO output_", "fed", "the"]
+  }
+ ],
+ "text": {
+  "words": 23,
+  "lines": [
+   {"mm": [141.2, 311.8, 149.8, 316.1], "text": "WBS"},
+   {"mm": [166.5, 311.8, 175.5, 316.1], "text": "M477"},
+   {"mm": [35.8, 149.2, 47.3, 153.5], "text": "Shio:"},
+   {"mm": [50.5, 149.2, 90.5, 153.7], "text": "Hnen depressed_ tnc"},
+   {"mm": [91.5, 149.2, 116.8, 153.5], "text": "output signa"},
+   {"mm": [9.5, 149.2, 33.2, 153.0], "text": "SLO switch"},
+   {"mm": [15.3, 145.9, 22.9, 149.8], "text": "fed"},
+   {"mm": [30.0, 145.9, 36.9, 149.8], "text": "the"},
+   {"mm": [38.6, 145.5, 62.4, 149.8], "text": "S0LO output_"},
+   {"mm": [257.1, 50.5, 266.4, 54.4], "text": "10/77"},
+   {"mm": [284.8, 50.5, 301.6, 54.4], "text": "REDRAYN"},
+   {"mm": [246.3, 45.1, 266.4, 49.0], "text": "ESSU IDATE"},
+   {"mm": [285.2, 45.6, 300.7, 49.4], "text": "Revision"},
+   {"mm": [226.0, 34.1, 324.7, 41.1], "text": "WBS WARD-BeCk bybtemS"},
+   {"mm": [280.9, 22.9, 293.8, 28.2], "text": "M477"},
+   {"mm": [270.1, 17.5, 305.7, 22.8], "text": "MASTER MODULE"},
+   {"mm": [221.1, 15.3, 228.6, 19.2], "text": "CKD"},
+   {"mm": [272.9, 11.7, 302.0, 16.9], "text": "FRONT PANEL"},
+   {"mm": [227.6, 5.6, 238.4, 9.5], "text": "SCALE"},
+   {"mm": [268.6, 0.9, 296.0, 6.1], "text": "477-04-003"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [134.6, 0.0, 326.0, 324.7],
+  "from": "title-block words (training set)",
+  "text": [
+   "WBS",
+   "M477",
+   "10/77",
+   "REDRAYN",
+   "ESSU IDATE",
+   "Revision",
+   "WBS WARD-BeCk bybtemS",
+   "M477",
+   "MASTER MODULE",
+   "CKD",
+   "FRONT PANEL",
+   "SCALE",
+   "477-04-003"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 477-04-003, size B (assumed) 326 × 432 mm, 1510 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–326 mm across, 0–320 mm up",
+  "- **Outlines:** line 12 rings, 148 straight (533 mm) / 22 curved (30.5 mm); text 122 rings, 1,012 straight (1,018 mm) / 344 curved (475 mm); tb 69 rings, 1,081 straight (3,182 mm) / 143 curved (221 mm)",
+  "- **Closed boxes:** 1; named: Hnen depressed_ Shio: output signa SLO s",
+  "- **Words (OCR):** 23 in 20 lines: WBS · M477 · Shio: · Hnen depressed_ tnc · output signa · SLO switch · fed · the · S0LO output_ · 10/77 · REDRAYN · ESSU IDATE",
+  "- **Title block:** (135, 0)–(326, 325) mm: WBS · M477 · 10/77 · REDRAYN · ESSU IDATE · Revision · WBS WARD-BeCk bybtemS · M477 · MASTER MODULE · CKD · FRONT PANEL · SCALE · 477-04-003"
+ ]
+}

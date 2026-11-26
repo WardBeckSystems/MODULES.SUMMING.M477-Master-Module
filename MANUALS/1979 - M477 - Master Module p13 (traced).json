@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/SUMMING/M477/MANUALS/1979 - M477 - Master Module.pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/c13e2177588009fe-p13.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1470, 2000],
+  "mm": [317.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.6, 315.3, 428.8],
+ "outlines": {
+  "line": {"rings": 33, "straight": {"n": 1039, "mm": 3187.7}, "curved": {"n": 136, "mm": 210.5}},
+  "text": {"rings": 237, "straight": {"n": 2033, "mm": 2367.7}, "curved": {"n": 534, "mm": 851.5}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 30,
+  "lines": [
+   {"mm": [133.9, 390.3, 184.6, 399.0], "text": "DESCRIPIION"},
+   {"mm": [107.3, 377.4, 130.6, 384.8], "text": "8-109"},
+   {"mm": [138.0, 374.4, 211.2, 385.2], "text": "AMPLIFIER_SERIES"},
+   {"mm": [18.4, 346.7, 125.9, 357.3], "text": "inverting amplifier with"},
+   {"mm": [128.7, 344.8, 255.2, 356.0], "text": "El externally strapped E6 _"},
+   {"mm": [229.7, 345.0, 241.2, 353.9], "text": "t0"},
+   {"mm": [18.4, 332.5, 64.8, 341.2], "text": "The output"},
+   {"mm": [67.6, 333.6, 94.3, 341.2], "text": "0 f a1 1"},
+   {"mm": [98.7, 332.9, 139.3, 340.6], "text": "mode ] s 0f"},
+   {"mm": [143.1, 332.1, 213.7, 340.2], "text": "the 8-109 series"},
+   {"mm": [216.8, 329.5, 267.5, 339.5], "text": "is actively"},
+   {"mm": [18.4, 326.0, 85.9, 334.1], "text": "ba anced and is"},
+   {"mm": [89.0, 323.9, 152.2, 334.2], "text": "brought out at"},
+   {"mm": [155.2, 324.3, 219.1, 332.9], "text": "pins E4 and E6"},
+   {"mm": [137.1, 0.0, 178.5, 8.2], "text": "8-109-1-3"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 317 × 432 mm, 1470 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–315 mm across, 1–429 mm up",
+  "- **Outlines:** line 33 rings, 1,039 straight (3,188 mm) / 136 curved (210 mm); text 237 rings, 2,033 straight (2,368 mm) / 534 curved (852 mm)",
+  "- **Words (OCR):** 30 in 15 lines: DESCRIPIION · 8-109 · AMPLIFIER_SERIES · inverting amplifier with · El externally strapped E6 _ · t0 · The output · 0 f a1 1 · mode ] s 0f · the 8-109 series · is actively · ba anced and is"
+ ]
+}

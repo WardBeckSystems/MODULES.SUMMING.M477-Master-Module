@@ -1,0 +1,44 @@
+{
+ "drawing": "Modules/SUMMING/M477/MANUALS/1979 - M477 - Master Module (2).pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/a0934950edc660b4-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1540, 2000],
+  "mm": [332.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.1, 5.2, 328.0, 426.6],
+ "outlines": {
+  "line": {"rings": 19, "straight": {"n": 611, "mm": 3043.6}, "curved": {"n": 87, "mm": 147.5}},
+  "text": {"rings": 76, "straight": {"n": 542, "mm": 600.3}, "curved": {"n": 110, "mm": 145.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [131.5, 207.7, 218.5, 213.9], "text": "109 AIoiIPLl ER SERIES"},
+   {"mm": [283.5, 57.2, 304.2, 66.1], "text": "ps"},
+   {"mm": [272.0, 46.0, 293.8, 57.3], "text": "BS"},
+   {"mm": [249.8, 23.7, 268.1, 30.9], "text": "tp"},
+   {"mm": [242.9, 16.6, 263.6, 23.8], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 332 × 432 mm, 1540 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 7–328 mm across, 5–427 mm up",
+  "- **Outlines:** line 19 rings, 611 straight (3,044 mm) / 87 curved (148 mm); text 76 rings, 542 straight (600 mm) / 110 curved (145 mm)",
+  "- **Words (OCR):** 8 in 5 lines: 109 AIoiIPLl ER SERIES · ps · BS · tp · ht"
+ ]
+}

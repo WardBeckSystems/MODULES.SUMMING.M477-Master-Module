@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/SUMMING/M477/MANUALS/1979 - M477 - Master Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/c13e2177588009fe-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1439, 2000],
+  "mm": [310.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [164.7, 1.9, 280.9, 428.6],
+ "outlines": {
+  "line": {"rings": 21, "straight": {"n": 1394, "mm": 5475.8}, "curved": {"n": 94, "mm": 207.6}},
+  "text": {"rings": 50, "straight": {"n": 1100, "mm": 4256.8}, "curved": {"n": 85, "mm": 196.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [176.4, 399.6, 269.9, 422.7], "text": "WBS"},
+   {"mm": [175.3, 360.3, 269.4, 383.8], "text": "WBS"},
+   {"mm": [174.7, 320.8, 269.9, 344.3], "text": "WBS"},
+   {"mm": [175.5, 282.0, 269.9, 304.5], "text": "WBS"},
+   {"mm": [175.7, 242.0, 269.9, 265.5], "text": "WBS"},
+   {"mm": [176.8, 203.2, 270.5, 226.7], "text": "WBS"},
+   {"mm": [176.8, 163.2, 270.5, 187.2], "text": "WBS"},
+   {"mm": [174.2, 125.0, 270.5, 148.3], "text": "WBS"},
+   {"mm": [210.3, 92.0, 228.9, 100.8], "text": "M477"},
+   {"mm": [191.5, 81.6, 244.8, 89.8], "text": "MASTER MODULE"},
+   {"mm": [176.8, 45.6, 271.0, 69.5], "text": "WBS"},
+   {"mm": [174.7, 7.6, 269.9, 30.1], "text": "WBS"}
+  ]
+ },
+ "title_block": {
+  "mm": [168.0, 0.0, 277.3, 431.2],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "M477", "MASTER MODULE", "WBS", "WBS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 311 × 432 mm, 1439 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 165–281 mm across, 2–429 mm up",
+  "- **Outlines:** line 21 rings, 1,394 straight (5,476 mm) / 94 curved (208 mm); text 50 rings, 1,100 straight (4,257 mm) / 85 curved (197 mm)",
+  "- **Words (OCR):** 12 in 12 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M477 · MASTER MODULE · WBS · WBS",
+  "- **Title block:** (168, 0)–(277, 431) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M477 · MASTER MODULE · WBS · WBS"
+ ]
+}

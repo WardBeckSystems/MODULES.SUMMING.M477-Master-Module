@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/SUMMING/M477/MANUALS/1979 - M477 - Master Module.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/c13e2177588009fe-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1458, 2000],
+  "mm": [314.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.3, 4.5, 313.7, 429.9],
+ "outlines": {
+  "line": {"rings": 16, "straight": {"n": 629, "mm": 2812.5}, "curved": {"n": 81, "mm": 127.2}},
+  "text": {"rings": 159, "straight": {"n": 1830, "mm": 2342.7}, "curved": {"n": 424, "mm": 675.5}},
+  "tb": {"rings": 3, "straight": {"n": 97, "mm": 309.7}, "curved": {"n": 4, "mm": 9.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [104.3, 414.3, 182.4, 423.9], "text": "WAAD-BECK"},
+   {"mm": [249.1, 415.0, 273.3, 423.6], "text": "LTD;"},
+   {"mm": [32.8, 404.8, 272.7, 419.9], "text": "WBS A41 PAOGRESS AVENUE, SCAABOAOUGH ONTAAIO M1H ex4"},
+   {"mm": [103.8, 402.4, 158.9, 407.7], "text": "TeLEX: 0B5-25359"},
+   {"mm": [194.5, 402.4, 272.7, 407.7], "text": "TELEPHONE: 418/439-6660"},
+   {"mm": [130.6, 246.1, 182.4, 259.1], "text": "Ma77"},
+   {"mm": [123.1, 233.2, 189.3, 242.0], "text": "MASTER MODULE"},
+   {"mm": [62.0, 3.2, 242.7, 9.7], "text": "DESIGN AND MANUFACTURE Of PFOFESSIONAL AUOIO EQUIPMAENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [26.6, 396.2, 188.9, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK", "WBS A41 PAOGRESS AVENUE, SCAABOAOUGH ONTAAIO M1H ex4", "TeLEX: 0B5-25359"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 315 × 432 mm, 1458 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 7–314 mm across, 4–430 mm up",
+  "- **Outlines:** line 16 rings, 629 straight (2,812 mm) / 81 curved (127 mm); text 159 rings, 1,830 straight (2,343 mm) / 424 curved (676 mm); tb 3 rings, 97 straight (310 mm) / 4 curved (9.2 mm)",
+  "- **Words (OCR):** 10 in 8 lines: WAAD-BECK · LTD; · WBS A41 PAOGRESS AVENUE, SCAABOAOUGH ONTAAIO M1H ex4 · TeLEX: 0B5-25359 · TELEPHONE: 418/439-6660 · Ma77 · MASTER MODULE · DESIGN AND MANUFACTURE Of PFOFESSIONAL AUOIO EQUIPMAENT",
+  "- **Title block:** (27, 396)–(189, 432) mm: WAAD-BECK · WBS A41 PAOGRESS AVENUE, SCAABOAOUGH ONTAAIO M1H ex4 · TeLEX: 0B5-25359"
+ ]
+}

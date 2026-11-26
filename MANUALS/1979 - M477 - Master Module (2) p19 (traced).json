@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/SUMMING/M477/MANUALS/1979 - M477 - Master Module (2).pdf",
+ "page": 19,
+ "version": 1,
+ "trace": "_traces/a0934950edc660b4-p19.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1510, 2000],
+  "mm": [326.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "19", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.6, 0.2, 326.1, 320.2],
+ "outlines": {
+  "line": {"rings": 139, "straight": {"n": 1887, "mm": 4389.1}, "curved": {"n": 345, "mm": 505.2}},
+  "text": {"rings": 100, "straight": {"n": 629, "mm": 571.4}, "curved": {"n": 200, "mm": 261.2}}
+ },
+ "circles": [{"c": [158.9, 313.9], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [135.0, 118.4, 184.4, 320.2], "w": 49.4, "h": 201.8, "from": "ring", "words": ["WB", "M4n", "sO"]},
+  {"mm": [138.2, 119.6, 181.3, 319.4], "w": 43.1, "h": 199.8, "from": "ring", "words": ["WB", "M4n", "sO"]},
+  {
+   "mm": [8.2, 144.9, 119.6, 155.0],
+   "w": 111.4,
+   "h": 10.1,
+   "from": "ring",
+   "words": ["SOLO", "switch", "SWIO", "When", "depre", "the", "ou", "tput", "ignl", "fed", "to", "he:", "SOLO", "output"]
+  },
+  {"mm": [245.9, 50.3, 255.6, 55.1], "w": 9.7, "h": 4.7, "from": "ring"},
+  {"mm": [256.5, 50.3, 266.0, 54.8], "w": 9.5, "h": 4.5, "from": "ring", "words": ["'101711"]},
+  {"mm": [245.9, 45.0, 255.8, 49.7], "w": 9.9, "h": 4.7, "from": "ring", "words": ["tSSl.I:"]},
+  {"mm": [256.5, 45.1, 266.3, 49.7], "w": 9.8, "h": 4.5, "from": "ring", "words": ["OIIT("]},
+  {"mm": [236.6, 35.2, 243.8, 39.7], "w": 7.1, "h": 4.5, "from": "ring"},
+  {"mm": [220.2, 20.5, 245.5, 25.0], "w": 25.3, "h": 4.5, "from": "ring", "words": ["NG."]}
+ ],
+ "text": {
+  "words": 32,
+  "lines": [
+   {"mm": [141.4, 312.6, 147.0, 315.7], "text": "WB"},
+   {"mm": [167.5, 312.6, 174.9, 315.7], "text": "M4n"},
+   {"mm": [140.6, 144.2, 154.8, 155.0], "text": "sO"},
+   {"mm": [9.1, 149.6, 44.0, 153.0], "text": "SOLO switch SWIO"},
+   {"mm": [15.3, 145.9, 60.5, 149.3], "text": "fed to he: SOLO output"},
+   {"mm": [50.3, 149.6, 70.6, 153.0], "text": "When depre"},
+   {"mm": [83.8, 149.6, 115.9, 153.0], "text": "the ou tput ignl"},
+   {"mm": [278.3, 55.7, 298.6, 64.6], "text": "ps"},
+   {"mm": [267.3, 44.5, 288.7, 55.5], "text": "BS"},
+   {"mm": [256.1, 49.2, 267.3, 53.1], "text": "'101711"},
+   {"mm": [247.0, 44.5, 265.6, 47.4], "text": "tSSl.I: OIIT("},
+   {"mm": [245.5, 22.7, 263.6, 29.6], "text": "tp"},
+   {"mm": [221.1, 24.2, 227.1, 27.8], "text": "DO\""},
+   {"mm": [223.0, 15.8, 306.4, 24.4], "text": "NG. ht MASTER MOOUlE"},
+   {"mm": [281.7, 22.2, 293.4, 26.1], "text": "M4 77"},
+   {"mm": [274.2, 10.4, 303.1, 14.4], "text": "FRONT PANEL"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 326 × 432 mm, 1510 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–326 mm across, 0–320 mm up",
+  "- **Outlines:** line 139 rings, 1,887 straight (4,389 mm) / 345 curved (505 mm); text 100 rings, 629 straight (571 mm) / 200 curved (261 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.0 @ (158.9, 313.9)",
+  "- **Closed boxes:** 9; named: WB M4n sO; WB M4n sO; SOLO switch SWIO When depre the ou tput ; '101711; tSSl.I:; OIIT(; NG.",
+  "- **Words (OCR):** 32 in 16 lines: WB · M4n · sO · SOLO switch SWIO · fed to he: SOLO output · When depre · the ou tput ignl · ps · BS · '101711 · tSSl.I: OIIT( · tp"
+ ]
+}

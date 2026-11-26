@@ -1,0 +1,115 @@
+{
+ "drawing": "Modules/SUMMING/M477/MECHANICAL/1979 - M477 - P18 - Front Panel.jpg",
+ "version": 1,
+ "trace": "_traces/4ba2d540436827ec.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1518, 2000],
+  "mm": [327.7, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.9, 3.2, 327.8, 431.6],
+ "outlines": {
+  "line": {"rings": 39, "straight": {"n": 1387, "mm": 4243.9}, "curved": {"n": 151, "mm": 230.3}},
+  "text": {"rings": 138, "straight": {"n": 1102, "mm": 1111.3}, "curved": {"n": 342, "mm": 452.4}},
+  "tb": {"rings": 52, "straight": {"n": 579, "mm": 1756.1}, "curved": {"n": 69, "mm": 109.6}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 317, "straight": {"n": 403, "mm": 1770.5}, "curved": {"n": 19, "mm": 32.4}},
+   "text": {"paths": 1237, "straight": {"n": 1525, "mm": 901.3}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 1342, "straight": {"n": 1441, "mm": 1624.9}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 28,
+  "orientation": {"horizontal": {"n": 834, "mm": 1851.3}, "vertical": {"n": 986, "mm": 1339.1}, "diagonal": {"n": 1549, "mm": 1106.4}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [-2.1, 328.7], "r": 6.9, "kind": "arc", "span": 90, "from": ["centre line"], "start": 33},
+  {"c": [2.1, 419.6], "r": 2.6, "kind": "arc", "span": 138, "from": ["centre line"], "start": 99},
+  {"c": [2.3, 353.7], "r": 2.6, "kind": "arc", "span": 136, "from": ["centre line"], "start": 102},
+  {"c": [2.6, 397.0], "r": 2.5, "kind": "arc", "span": 105, "from": ["centre line"], "start": 53},
+  {"c": [255.0, 9.5], "r": 1.4, "kind": "arc", "span": 227, "from": ["centre line"], "start": 207}
+ ],
+ "boxes": [
+  {
+   "mm": [19.2, 145.5, 127.4, 155.2],
+   "w": 108.2,
+   "h": 9.7,
+   "from": "ring",
+   "words": ["output signa |", "SOLO shitch", "Shio:", "Hhen", "depressed,", "the", "the", "SOLO output.", "fed to"]
+  },
+  {"mm": [270.3, 53.5, 319.7, 58.3], "w": 49.4, "h": 4.7, "from": "ring", "words": ["REDRAWN"]},
+  {"mm": [250.0, 53.5, 259.5, 58.1], "w": 9.5, "h": 4.5, "from": "ring", "in_title_block": true},
+  {"mm": [260.2, 53.5, 269.7, 58.1], "w": 9.5, "h": 4.5, "from": "ring", "words": ["10/77"], "in_title_block": true},
+  {"mm": [270.3, 48.6, 319.7, 53.1], "w": 49.4, "h": 4.5, "from": "ring", "words": ["REVISION"]},
+  {"mm": [250.0, 48.5, 259.7, 52.9], "w": 9.7, "h": 4.4, "from": "ring", "words": ["ESSUE IDATE"], "in_title_block": true},
+  {"mm": [260.2, 48.6, 269.7, 52.9], "w": 9.5, "h": 4.3, "from": "ring", "in_title_block": true},
+  {"mm": [224.9, 24.6, 249.6, 29.1], "w": 24.7, "h": 4.5, "from": "ring", "in_title_block": true},
+  {"mm": [225.0, 19.6, 249.6, 24.0], "w": 24.6, "h": 4.3, "from": "ring", "words": ["DAL", "CKD"], "in_title_block": true},
+  {"mm": [260.6, 4.5, 310.0, 14.0], "w": 49.4, "h": 9.5, "from": "ring", "words": ["477-04-003"]},
+  {"mm": [225.0, 4.7, 249.8, 13.8], "w": 24.8, "h": 9.1, "from": "ring", "words": ["ISCE"]},
+  {"mm": [250.4, 4.7, 259.9, 13.8], "w": 9.5, "h": 9.1, "from": "ring"}
+ ],
+ "text": {
+  "words": 26,
+  "lines": [
+   {"mm": [148.1, 307.4, 156.7, 311.8], "text": "WBS"},
+   {"mm": [172.9, 307.9, 181.6, 311.7], "text": "M477"},
+   {"mm": [20.3, 149.8, 99.1, 153.7], "text": "SOLO shitch Shio: Hhen depressed, the"},
+   {"mm": [100.0, 149.8, 126.5, 154.2], "text": "output signa |"},
+   {"mm": [26.1, 145.9, 39.1, 150.3], "text": "fed to"},
+   {"mm": [40.2, 146.6, 72.5, 150.4], "text": "the SOLO output."},
+   {"mm": [260.8, 53.8, 270.1, 57.6], "text": "10/77"},
+   {"mm": [287.8, 53.8, 303.3, 57.6], "text": "REDRAWN"},
+   {"mm": [250.0, 48.8, 269.4, 52.2], "text": "ESSUE IDATE"},
+   {"mm": [287.8, 48.8, 302.9, 52.6], "text": "REVISION"},
+   {"mm": [230.8, 37.8, 326.2, 44.3], "text": "WBS WARD-BECK bybteMs"},
+   {"mm": [283.5, 27.2, 296.4, 32.5], "text": "M477"},
+   {"mm": [233.8, 19.2, 244.6, 24.5], "text": "DAL"},
+   {"mm": [273.3, 21.8, 308.3, 26.6], "text": "MASTER MODULE"},
+   {"mm": [225.8, 19.6, 233.4, 23.5], "text": "CKD"},
+   {"mm": [275.9, 16.0, 304.4, 21.3], "text": "FRONT PANEL"},
+   {"mm": [231.7, 10.6, 242.5, 14.4], "text": "ISCE"},
+   {"mm": [315.9, 9.9, 325.6, 13.8], "text": "Gsue"},
+   {"mm": [272.2, 5.2, 298.6, 10.0], "text": "477-04-003"}
+  ]
+ },
+ "title_block": {
+  "mm": [141.5, 11.1, 310.0, 320.4],
+  "from": "title-block words (training set)",
+  "text": [
+   "WBS",
+   "M477",
+   "10/77",
+   "REDRAWN",
+   "ESSUE IDATE",
+   "REVISION",
+   "WBS WARD-BECK bybteMs",
+   "M477",
+   "DAL",
+   "MASTER MODULE",
+   "CKD",
+   "FRONT PANEL",
+   "ISCE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical, size B (assumed) 328 × 432 mm, 1518 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–328 mm across, 3–432 mm up",
+  "- **Outlines:** line 39 rings, 1,387 straight (4,244 mm) / 151 curved (230 mm); text 138 rings, 1,102 straight (1,111 mm) / 342 curved (452 mm); tb 52 rings, 579 straight (1,756 mm) / 69 curved (110 mm)",
+  "- **Centre lines:** 2,896 paths (28 closed); straight 4,297 mm, curved 32.4 mm; horizontal 1,851 mm, vertical 1,339 mm, diagonal 1,106 mm",
+  "- **Circles and arcs:** 0 circles, 5 arcs",
+  "- **Closed boxes:** 12 (6 in the title block); named: output signa | SOLO shitch Shio: Hhen de; REDRAWN; REVISION; 477-04-003; ISCE",
+  "- **Words (OCR):** 26 in 19 lines: WBS · M477 · SOLO shitch Shio: Hhen depressed, the · output signa | · fed to · the SOLO output. · 10/77 · REDRAWN · ESSUE IDATE · REVISION · WBS WARD-BECK bybteMs · M477",
+  "- **Title block:** (142, 11)–(310, 320) mm: WBS · M477 · 10/77 · REDRAWN · ESSUE IDATE · REVISION · WBS WARD-BECK bybteMs · M477 · DAL · MASTER MODULE · CKD · FRONT PANEL · ISCE"
+ ]
+}

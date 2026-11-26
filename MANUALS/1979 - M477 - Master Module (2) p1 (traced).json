@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/SUMMING/M477/MANUALS/1979 - M477 - Master Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/a0934950edc660b4-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1439, 2000],
+  "mm": [310.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [164.7, 1.9, 280.9, 428.8],
+ "outlines": {
+  "line": {"rings": 55, "straight": {"n": 2203, "mm": 8590.9}, "curved": {"n": 134, "mm": 278.2}},
+  "text": {"rings": 16, "straight": {"n": 323, "mm": 1216.3}, "curved": {"n": 26, "mm": 47.4}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [218.5, 217.0, 235.8, 219.8], "w": 17.3, "h": 2.8, "from": "ring"},
+  {"mm": [218.5, 210.5, 236.0, 213.5], "w": 17.5, "h": 3.0, "from": "ring", "words": ["'NBS"]},
+  {"mm": [218.5, 177.7, 235.8, 180.7], "w": 17.3, "h": 3.0, "from": "ring"},
+  {"mm": [218.9, 138.4, 236.0, 141.4], "w": 17.1, "h": 3.0, "from": "ring"},
+  {"mm": [219.1, 60.0, 236.4, 62.8], "w": 17.3, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [177.7, 400.5, 269.9, 420.2], "text": "'NBS"},
+   {"mm": [177.3, 361.4, 269.9, 381.1], "text": "'NBS"},
+   {"mm": [177.7, 321.0, 269.9, 340.7], "text": "'NBS"},
+   {"mm": [177.7, 281.3, 269.9, 301.0], "text": "'NBS"},
+   {"mm": [177.3, 241.8, 269.4, 261.5], "text": "'NBS"},
+   {"mm": [177.3, 202.3, 269.4, 222.0], "text": "'NBS"},
+   {"mm": [177.3, 162.6, 269.4, 182.2], "text": "'NBS"},
+   {"mm": [177.3, 123.1, 269.4, 142.7], "text": "'NBS"},
+   {"mm": [212.0, 88.5, 228.2, 96.9], "text": "\"'77"},
+   {"mm": [192.2, 80.1, 243.8, 86.3], "text": "MASTEIt MODULE"},
+   {"mm": [177.3, 43.8, 284.6, 63.5], "text": "'NBS ps"},
+   {"mm": [254.5, 42.5, 274.8, 53.1], "text": "BS"},
+   {"mm": [233.8, 21.8, 251.1, 28.5], "text": "tp"},
+   {"mm": [176.8, 3.9, 269.0, 23.6], "text": "'NBS"},
+   {"mm": [227.1, 15.1, 246.6, 21.8], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 311 × 432 mm, 1439 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 165–281 mm across, 2–429 mm up",
+  "- **Outlines:** line 55 rings, 2,203 straight (8,591 mm) / 134 curved (278 mm); text 16 rings, 323 straight (1,216 mm) / 26 curved (47.4 mm)",
+  "- **Closed boxes:** 5; named: 'NBS",
+  "- **Words (OCR):** 17 in 15 lines: 'NBS · 'NBS · 'NBS · 'NBS · 'NBS · 'NBS · 'NBS · 'NBS · \"'77 · MASTEIt MODULE · 'NBS ps · BS"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "drawing": "Modules/SUMMING/M477/MANUALS/1979 - M477 - Master Module.pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/c13e2177588009fe-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1540, 2000],
+  "mm": [332.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.1, 5.2, 328.0, 426.4],
+ "outlines": {
+  "line": {"rings": 8, "straight": {"n": 502, "mm": 2896.1}, "curved": {"n": 63, "mm": 105.1}},
+  "text": {"rings": 28, "straight": {"n": 256, "mm": 317.9}, "curved": {"n": 80, "mm": 105.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 3,
+  "lines": [{"mm": [122.4, 208.3, 142.9, 215.3], "text": "8-109"}, {"mm": [145.7, 207.7, 218.7, 215.4], "text": "AMPLIFIER SERIES"}]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 332 × 432 mm, 1540 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 7–328 mm across, 5–426 mm up",
+  "- **Outlines:** line 8 rings, 502 straight (2,896 mm) / 63 curved (105 mm); text 28 rings, 256 straight (318 mm) / 80 curved (106 mm)",
+  "- **Words (OCR):** 3 in 2 lines: 8-109 · AMPLIFIER SERIES"
+ ]
+}
