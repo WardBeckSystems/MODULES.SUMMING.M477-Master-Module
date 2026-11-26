@@ -26,7 +26,7 @@ Wiki page: [M477](../../../../PAGES/M477.md)
 - **Closed boxes:** 5; named: 'NBS
 - **Words (OCR):** 17 in 15 lines: 'NBS · 'NBS · 'NBS · 'NBS · 'NBS · 'NBS · 'NBS · 'NBS · "'77 · MASTEIt MODULE · 'NBS ps · BS
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p1 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p1 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -36,7 +36,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p1 (trac
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.0 @ (270.0, 405.0)
 - **Words (OCR):** 22 in 12 lines: ['NElS) 84'1 maGPFG9 AvENUE. QCARBORO....I(jH, 4'1a lo>3B-t'l!lo!lO · WARD-BECK YS · LTD · ONTARIO · TEU"x 00'Ie -2l5389 · Ta.EF'HONE' · M477 · MASTER MODULE · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p2 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p2 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -47,7 +47,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p2 (trac
 - **Words (OCR):** 116 in 53 lines: WARO -BECK SYSTEMS LTO · TABL OF CO NTENTS · H4 · MASTER HOOUL · S£CTION · PA GE · Warranty · Tectln · Oa ta · Cl u1t Descript ion · 2-1 to 2-2 · Pa
 - **Title block:** (34, 410)–(119, 432) mm: WARO -BECK SYSTEMS LTO
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p3 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p3%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p3 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -58,7 +58,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p3 (trac
 - **Words (OCR):** 335 in 113 lines: WARC -Be:CK YSTEMS LTC · WARR AN TY · Al War d-B · Systems ltd prod ucts ar warr ante · gai nst · or ~ansh · def ct ve ma · ls an · for · pe rio · one · ye
 - **Title block:** (23, 73)–(185, 355) mm: Al War d-B · Systems ltd prod ucts ar warr ante · or ~ansh · def ct ve ma · ls an · ye · fr OM da te of · pme · Ward -Be · Sys te~s wi · epa ir · epla · wi hou charge, · upon facto ry Insp ectio · pro
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p4 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p4%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p4 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -70,7 +70,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p4 (trac
 - **Words (OCR):** 231 in 86 lines: WARO -BECK SYSTEMS LTO · TECHNICAL DATA · "477 MASTER MOOULE · Ga in · dB · dB · (wi · ade · IS dB · hand" · ~osition · Frequen cy
 - **Title block:** (30, 410)–(115, 432) mm: WARO -BECK SYSTEMS LTO
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p5 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p5%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p5 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -81,7 +81,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p5 (trac
 - **Closed boxes:** 1
 - **Words (OCR):** 376 in 76 lines: WARD · ECK SYS TEMS LTD · CIRCU IT DESCR IPTION · M417 MASTER MODUL · The M477 1s desi gned to receive he mixed eeds fr · the · .ixing ch annel inpu ts or sub.ast er inputs · Thes combi ned · gnlls · are a.p llf ied · and · li ne leve ls nd th
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p6 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p6%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p6 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -92,7 +92,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p6 (trac
 - **Closed boxes:** 1
 - **Words (OCR):** 186 in 39 lines: WARo ~eECK SYSTEMS LTO. · Ci RCUIT DESCR IPTION · H4 77 HASTER MODULE · Ou tputs · Two 600 oh• ba lan ced ou puts are provided on pins 17/U and · 16/T re pect vel · ea ch wi · axi.u. ou tput ca pabi · i24 dB. · mo ni to ou tpu is av aila bl at pins 15/S to feed · the in put · the 475 oni to
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p7 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p7%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p7 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -104,7 +104,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p7 (trac
 - **Words (OCR):** 150 in 94 lines: WARD-BECK SYSTEMS LTD · PART LIST · H4 77 "ASTER DOULE · PART · OESCRIPTIOH · MFG · Hf PART HUMB ER · 330 16 · t1 · Cap acito · Ke.e · T390f337H006AS
 - **Title block:** (3, 411)–(114, 432) mm: WARD-BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p8 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p8%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p8 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -115,7 +115,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p8 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 102 in 80 lines: SYSTEM LT · PARTS LIST · "477 MASTER MODULE · PART · OEseR PT OM · MF PART HUMBER · ns · MUion'll · PN36 45 · Q7 · PN35 · Q8
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p9 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p9%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p9 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -124,7 +124,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p9 (trac
 - **Outlines:** line 19 rings, 611 straight (3,044 mm) / 87 curved (148 mm); text 76 rings, 542 straight (600 mm) / 110 curved (145 mm)
 - **Words (OCR):** 8 in 5 lines: 109 AIoiIPLl ER SERIES · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p10 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p10%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p10 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -136,7 +136,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p10 (tra
 - **Dots (junctions):** 4
 - **Words (OCR):** 251 in 137 lines: DESCR IPTION · 09 · PllF ER · SERIES · 8-109 · ri · IlrT'l) llf iers arll · ti li zed · In tern al omp oo · ith · va lnu · WBS
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p11 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p11%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p11 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -147,7 +147,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p11 (tra
 - **Dots (junctions):** 1
 - **Words (OCR):** 311 in 177 lines: DESCR TI ON · 109 AMPL IF IER SER iE · Oul · L/lve · 1-30 Bm m""imu · Requ remc · 21 · oll · 18 mA cvtesceo Curren · mA III +30 lJm OU UI · mbie nt Te mp · eg
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p12 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p12%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p12 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -156,7 +156,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p12 (tra
 - **Outlines:** line 54 rings, 1,293 straight (3,542 mm) / 197 curved (296 mm); text 222 rings, 1,816 straight (2,046 mm) / 478 curved (771 mm)
 - **Words (OCR):** 48 in 18 lines: DES CR IPTION · 8-109 AMPLIF IER SE RIES · nve · ng am ifier wit · xt nal · stra pped to E6. · Th output · al mode · of he · 8-109 seri es is · \ve ly · bal anc ed nd
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p13 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p13%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p13 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -166,7 +166,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p13 (tra
 - **Closed boxes:** 3
 - **Words (OCR):** 119 in 77 lines: PAR TS · IS · -109 AMP LI FI ER SERIES · -109 · PART · DEseR IPT ION · MFG PART NUMBER · Ce.p e.cilo · aa uF/10 · K",m"l · 900 36 M0 AS · ca
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p14 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p14%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p14 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -175,7 +175,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p14 (tra
 - **Outlines:** line 210 rings, 2,362 straight (5,414 mm) / 552 curved (723 mm); text 488 rings, 4,250 straight (4,576 mm) / 1,280 curved (1,563 mm)
 - **Words (OCR):** 76 in 51 lines: PARTS LI ST · 109 AMPLIFIER SER ES · -109 · rr · OESCR IP TION · FG · MFGPAAT NUM8ER · Re i:OIor · 4W · Pi"l tl iJ · OS• · 390
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p15 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p15%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p15 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -186,7 +186,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p15 (tra
 - **Dots (junctions):** 1
 - **Words (OCR):** 99 in 62 lines: PAR · iS · 8_109 AM PLI IER SERIES · 109'" · pa rt · per · 10 · cp as nOIe-<:! elow · PAR' · OESC RI TIO · FG · MFG PART NUMBER
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p16 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p16%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p16 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -198,7 +198,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p16 (tra
 - **Words (OCR):** 106 in 64 lines: PAR TS LI ST · 109 AMP IF ER SER IES · 10 90 · Al · ar- · <:IS · per · 109 · cept as no ted · ow · PAR · DESCRIPTION
 - **Wiring (first pass):** 16 connected wire groups from 53 runs; labelled ends: 71 mm → ESCRIP, TIO, PA, ce; 59 mm → AMP, IES; 53 mm → MFG, 2222-638-09476; 49 mm → MFG, 2222-638-09476, NUMBER; 48 mm → _09478, NUMBE, 222
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p17 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p17%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p17 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -208,7 +208,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p17 (tra
 - **Dots (junctions):** 1
 - **Words (OCR):** 64 in 32 lines: DARTS · IST · 8-109 AM PL · ER SERIES · 8_I09G · rt · er 8-10 · 88 no · elo · PAR · DESCI PTI QN · MF
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p18 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p18%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p18 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -219,7 +219,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p18 (tra
 - **Closed boxes:** 9; named: WB M4n sO; WB M4n sO; SOLO switch SWIO When depre the ou tput ; '101711; tSSl.I:; OIIT(; NG.
 - **Words (OCR):** 32 in 16 lines: WB · M4n · sO · SOLO switch SWIO · fed to he: SOLO output · When depre · the ou tput ignl · ps · BS · '101711 · tSSl.I: OIIT( · tp
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p19 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p19%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p19 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p19%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -230,7 +230,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p19 (tra
 - **Words (OCR):** 58 in 32 lines: SU8MU~ING · -,II-;)' l~~~::l · INPUT · MASTER OUTPUTS · Bm ItO ohm · MON IT OR OUTPUT · METIEIIlIHG OUTPUT · SOLO · SOLO SUM MI NG BUS · COHT IIlOl · SOLO CO NTROl · COM ON
 - **Title block:** (323, 46)–(432, 83) mm: wm · '"'DRAWN · IS.... DATE · REVtslOH · (VVSS WARD·aeCK SYSTEMS · ps
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p20 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p20%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p20 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p20%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -242,7 +242,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p20 (tra
 - **Words (OCR):** 204 in 164 lines: ,20< · R'O · <5K · l2 · +2.1" -2\V · ...2.1\1 · 1v · 330/1i. · BK2 · ERT · 2E' · '5k
 - **Title block:** (357, 0)–(432, 29) mm: ..SUE OAT£ · REV ISION · tp · \NB · WAAO-BECK SYSTEMS · ht · DRH. · MR · M4 · ENG. · MASTER MO DULE · CKO..(f\J... · SC HEMAT IC · SCALE · 001 · rs SUE
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p21 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p21%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p21 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p21%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p21 (traced).dxf`).
 
 ### Page 22
 
@@ -253,7 +253,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p21 (tra
 - **Closed boxes:** 69; named: 10 10 10 II 10 II: et; wO Hi; L10; 11; 12; PlJ; 515; K2D; ps; 21; '22; tp ht
 - **Words (OCR):** 89 in 64 lines: 10 · INPUT · 1NPUT · 10 · SHIELD · SH IELO · 10 · IC · IC · II · wO · IC
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p22 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p22%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p22 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p22 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p22%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p22 (traced).dxf`).
 
 ### Page 23
 
@@ -266,7 +266,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p22 (tra
 - **Words (OCR):** 144 in 120 lines: E3 · 'lJ · I3 · 1·S · .39 · 10 · I7 · K7 · 22 · t;;i' · n.lt:> · El
 - **Title block:** (352, 1)–(432, 34) mm: ISS UE OAf( · RE'lJtSION · (VVE3S] WARD- 8ECK SYSTEMS · tp · ht · OftN. El .'78 · ENG.MRW · CKD. .J(t. · TPU · AMPLI FIER · SCHEMATIC · sc.... GI '09 02 · ISSUE
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p23 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p23%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p23 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p23 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p23%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p23 (traced).dxf`).
 
 ### Page 24
 
@@ -276,7 +276,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p23 (tra
 - **Circles and arcs:** 12 circles, 0 arcs; largest r 16.7 @ (43.3, 300.2), r 15.8 @ (139.3, 110.5), r 15.8 @ (43.6, 111.4), r 15.7 @ (138.7, 300.3)
 - **Words (OCR):** 41 in 36 lines: ~3/1O · -cr · "'ill. · -R5 · f8k. · ns -Rl..i.ZQ · -R8 · 4'1., · -CIO- · -cz, · _CIl~"P' · -RI4-.gg
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p24 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p24%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p24 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p24 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p24%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p24 (traced).dxf`).
 
 ### Page 25
 
@@ -288,7 +288,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p24 (tra
 - **Words (OCR):** 103 in 73 lines: 02 E5 · E2 · R~I 'SI< · R.62 .ll..l< · IE3 · <:E4 · 2El · R.S · j,,1 · (\NBS] · R.4 ",20 · R4 oo
 - **Title block:** (315, 0)–(432, 56) mm: 7/77 · BS ISION · APP · ISSUE · DATE · REV · (\NBS] WARC-BECK · DRN. · MRW tp · ENG. ht ASTER OD ULE · M4 · If, · CKO · COM PO EN LA YO · APP. · SC ALE · BI 77 06-00 · ISSUE
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p25 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p25%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p25 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p25 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p25%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p25 (traced).dxf`).
 
 ### Page 26
 
@@ -300,7 +300,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p25 (tra
 - **Words (OCR):** 149 in 126 lines: I3 · E3 · 18.'/ · 39 · 1·5" · C3 · '<17 · /25 · K7 · e7 · R5 · IV'
 - **Title block:** (353, 0)–(432, 39) mm: IS$U EI OAH · REVISION · tp · [\NBS] WARC·BECK SYSTEMS · ht 78 · ORN. E6 · 10 · ENG.MRW · KD. · BOOS TER AMP LIfiER · SCHEMATI · SCALE · 61 -109 -02 -00 · IS SUE
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p26 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p26%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p26 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p26 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p26%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p26 (traced).dxf`).
 
 ### Page 27
 
@@ -310,7 +310,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p26 (tra
 - **Circles and arcs:** 14 circles, 0 arcs; largest r 17.4 @ (134.5, 103.2), r 17.4 @ (34.7, 104.2), r 17.4 @ (35.4, 301.3), r 16.5 @ (134.8, 301.2)
 - **Words (OCR):** 24 in 22 lines: 1O · IB · 18 · N2 10Z. · LF35G. · Rn · 1('7 · 5.:t·1 · I9 · c..G. ·7p · R1 · .2&K.
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p27 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2)%20p27%20(traced).json) (the CAD file: `1979 - M477 - Master Module (2) p27 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module (2) p27 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20%282%29%20p27%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module (2) p27 (traced).dxf`).
 
 ## Full text
 

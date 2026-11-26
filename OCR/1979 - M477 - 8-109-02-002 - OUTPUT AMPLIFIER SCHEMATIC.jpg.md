@@ -22,7 +22,7 @@ Wiki page: [M477](../../../../PAGES/M477.md)
 - **Words (OCR):** 81 in 80 lines: 21.5Y · 477 · Ris · Pn3c45 · 02 · 03 · 356 · 33710 · Jok · PN3542 · 4.7p · Ric
 - **Wiring (first pass):** 57 connected wire groups from 473 runs; labelled ends: 289 mm → DA; 174 mm → 2N4037; 148 mm → 19k, 4.7p, TCk; 135 mm → R32, 6.9, R35, R33; 135 mm → Rzo, R34, 5.6, R28
 
-Every curve, box, word and wire group: [1979 - M477 - 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1979%20-%20M477%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20(traced).json) (the CAD file: `1979 - M477 - 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1979%20-%20M477%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1979 - M477 - 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC (traced).dxf`).
 
 ## Full text
 

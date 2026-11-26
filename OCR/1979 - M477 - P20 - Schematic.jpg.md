@@ -11,6 +11,19 @@ Wiki page: [M477](../../../../PAGES/M477.md)
 - **Size:** 376,520 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 280 mm, 2000 × 1299 px traced (0.216 mm/px)
+- **Ink extent:** 12–432 mm across, 0–271 mm up
+- **Outlines:** line 979 rings, 8,199 straight (13,628 mm) / 1,783 curved (2,319 mm); text 505 rings, 2,723 straight (2,404 mm) / 1,013 curved (1,290 mm)
+- **Centre lines:** 9,629 paths (254 closed); straight 9,535 mm, curved 487 mm; horizontal 3,284 mm, vertical 2,368 mm, diagonal 3,883 mm
+- **Circles and arcs:** 19 circles, 74 arcs; largest r 4.0 @ (80.8, 35.8), r 3.9 @ (76.4, 248.2), r 3.9 @ (107.0, 75.6), r 3.9 @ (131.3, 171.4)
+- **Closed boxes:** 14; named: 7/78
+- **Words (OCR):** 88 in 81 lines: 33016 · YSERT · 2E3 · 3.109E · Output · BOOSTER · OUTPUT · AMPLIfIER · 704 · 2E2 · S_vMing · 2eB
+- **Wiring (first pass):** 120 connected wire groups from 761 runs; labelled ends: 251 mm → 3.109E; 240 mm → 2E2; 116 mm → 2440, 10125; 116 mm → Ra 2k; 96 mm → PN 3569, Inacos, 22/25
+
+Every curve, box, word and wire group: [1979 - M477 - P20 - Schematic (traced).json](../SCHEMATICS/1979%20-%20M477%20-%20P20%20-%20Schematic%20%28traced%29.json) (the CAD file: `1979 - M477 - P20 - Schematic (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 3 words corrected)

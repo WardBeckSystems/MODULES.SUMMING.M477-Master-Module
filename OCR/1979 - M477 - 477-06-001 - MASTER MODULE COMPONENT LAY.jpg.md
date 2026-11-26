@@ -21,7 +21,7 @@ Wiki page: [M477](../../../../PAGES/M477.md)
 - **Words (OCR):** 143 in 112 lines: 5oof · PN3645 · PN3645 2N4401 204401 · PN3645 ~2n44oi 2n4401 · Rzi · R22 · Jumpec < · Ris · J00 · Rii ISk · R9 22k · Rio !5
 - **Title block:** (54, 0)–(432, 170) mm: R48 Gzc · WBS · R47 320 · R46 Joe · CANADA · R44 · 20 · 7-105 · R43 300 · FIE4 · IEI · R7i 41 · 02E3 · ZE7 · 22/25 · 22/25 · 22/25 · 22/15 · (23 · C25 · C24 · 222 · 0436t5 · PN3569 · Swio · 2/9 36|( ·
 
-Every curve, box, word and wire group: [1979 - M477 - 477-06-001 - MASTER MODULE COMPONENT LAY (traced).json](../SCHEMATICS/1979%20-%20M477%20-%20477-06-001%20-%20MASTER%20MODULE%20COMPONENT%20LAY%20(traced).json) (the CAD file: `1979 - M477 - 477-06-001 - MASTER MODULE COMPONENT LAY (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - 477-06-001 - MASTER MODULE COMPONENT LAY (traced).json](../SCHEMATICS/1979%20-%20M477%20-%20477-06-001%20-%20MASTER%20MODULE%20COMPONENT%20LAY%20%28traced%29.json) (the CAD file: `1979 - M477 - 477-06-001 - MASTER MODULE COMPONENT LAY (traced).dxf`).
 
 ## Full text
 

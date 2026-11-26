@@ -26,7 +26,7 @@ Wiki page: [M477](../../../../PAGES/M477.md)
 - **Words (OCR):** 12 in 12 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M477 · MASTER MODULE · WBS · WBS
 - **Title block:** (168, 0)–(277, 431) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M477 · MASTER MODULE · WBS · WBS
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p1 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p1%20(traced).json) (the CAD file: `1979 - M477 - Master Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p1 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p1%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -36,7 +36,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p1 (traced).
 - **Words (OCR):** 10 in 8 lines: WAAD-BECK · LTD; · WBS A41 PAOGRESS AVENUE, SCAABOAOUGH ONTAAIO M1H ex4 · TeLEX: 0B5-25359 · TELEPHONE: 418/439-6660 · Ma77 · MASTER MODULE · DESIGN AND MANUFACTURE Of PFOFESSIONAL AUOIO EQUIPMAENT
 - **Title block:** (27, 396)–(189, 432) mm: WAAD-BECK · WBS A41 PAOGRESS AVENUE, SCAABOAOUGH ONTAAIO M1H ex4 · TeLEX: 0B5-25359
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p2 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p2%20(traced).json) (the CAD file: `1979 - M477 - Master Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p2 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p2%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -46,7 +46,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p2 (traced).
 - **Words (OCR):** 69 in 50 lines: WAAD-BECK Systems LTD · QE_CONIENIS · IABLE · M4Z7 MASTER_MODULE · PAGE · SECIION · Warranty · Techni · ca] Data · 1-1 · circuit · Description
 - **Title block:** (5, 42)–(292, 432) mm: WAAD-BECK Systems LTD · QE_CONIENIS · IABLE · M4Z7 MASTER_MODULE · PAGE · SECIION · Warranty · Techni · ca] Data · 1-1 · circuit · Description · 2 -2 · 2-1 to · Parts List · 3-1 to 3 -3 · Appendix · 8
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p3 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p3%20(traced).json) (the CAD file: `1979 - M477 - Master Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p3 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p3%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -56,7 +56,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p3 (traced).
 - **Words (OCR):** 222 in 121 lines: WAAD-BeCk sybtems LTD · AI I Ward-Beck Systems · Ltd. · products are · warranted · against · defective materia]s and · workmansh ip for · period 0 f one · year · from · date 0 f
 - **Title block:** (2, 73)–(261, 432) mm: WAAD-BeCk sybtems LTD · AI I Ward-Beck Systems · Ltd. · products are · warranted · against · defective materia]s and · workmansh ip for · period 0 f one · year · from · date 0 f · shipment · Ward-Beck
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p4 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p4%20(traced).json) (the CAD file: `1979 - M477 - Master Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p4 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p4%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -66,7 +66,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p4 (traced).
 - **Words (OCR):** 169 in 95 lines: WARO-BECK systems LTD · IECHNICAL DAIA · M4ZZ MASIER_MQDULE · Gain: · dB · +0 .5 dB · (with fader in · 15 · dB "in-hand" position) · Frequency Response: :0.25 · dB from 20 Hz t0 kHz . · 20
 - **Title block:** (3, 408)–(114, 432) mm: WARO-BECK systems LTD
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p5 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p5%20(traced).json) (the CAD file: `1979 - M477 - Master Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p5 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p5%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -76,7 +76,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p5 (traced).
 - **Words (OCR):** 237 in 111 lines: WAAD-BECK SYSTEmS LTD · CIRCUII_DESCRIPIION · M4ZZ MASTER_MODULE · The · M477 des igned t0 receive the · is · mixed feeds · from either · mixing channel nputs submaster · or · nputs. · These combined
 - **Title block:** (3, 265)–(134, 432) mm: WAAD-BECK SYSTEmS LTD · The · M477 des igned t0 receive the · is · mixing channel nputs submaster · or · signa| s are · amplified to · fed to · the ma i n program · Input · and · SummingAmplifier · Th
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p6 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p6%20(traced).json) (the CAD file: `1979 - M477 - Master Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p6 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p6%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -87,7 +87,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p6 (traced).
 - **Words (OCR):** 119 in 53 lines: WARD-BECK SYSTemS LTD · CIRCUIIDESCRIPIION · M477 MASIER_MQDULE · Qutputs · Two 600 · ohm ba lanced outputs are · provided , on · Pins I7/U and · 16/T · respectively, each with maximum output · capability 0 f · 2 4 dBm _
 - **Title block:** (4, 414)–(117, 432) mm: WARD-BECK SYSTemS LTD
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p7 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p7%20(traced).json) (the CAD file: `1979 - M477 - Master Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p7 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p7%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -98,7 +98,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p7 (traced).
 - **Words (OCR):** 104 in 91 lines: WARD-BECK SYStemS LTD · PARTS LISI · M477 MASTER_MODULE · PARI · DESCRIPTION · MFG · MFG · PART NUMBER · C1 · Capacitor · 330 uF/ 6 · Kemet
 - **Title block:** (4, 412)–(115, 432) mm: WARD-BECK SYStemS LTD
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p8 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p8%20(traced).json) (the CAD file: `1979 - M477 - Master Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p8 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p8%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -108,7 +108,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p8 (traced).
 - **Closed boxes:** 3
 - **Words (OCR):** 90 in 87 lines: WARD-BECK · PARIS LIST · M477 · MASIER_MODULE · DESCR I PTION · MFG · MEG_PART_NUMBER · PARI · 06 · Transistor · Nationa] · Pn3645
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p9 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p9%20(traced).json) (the CAD file: `1979 - M477 - Master Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p9 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p9%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -117,7 +117,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p9 (traced).
 - **Outlines:** line 8 rings, 502 straight (2,896 mm) / 63 curved (105 mm); text 28 rings, 256 straight (318 mm) / 80 curved (106 mm)
 - **Words (OCR):** 3 in 2 lines: 8-109 · AMPLIFIER SERIES
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p10 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p10%20(traced).json) (the CAD file: `1979 - M477 - Master Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p10 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p10%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -126,7 +126,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p10 (traced)
 - **Outlines:** line 26 rings, 612 straight (3,127 mm) / 81 curved (126 mm); text 1,552 rings, 13,012 straight (14,632 mm) / 3,489 curved (4,308 mm)
 - **Words (OCR):** 198 in 112 lines: DESCRIPTION · 8-109 · AMPLIFIER SERIES · The 8-109 scries · of · amplifiers are · utilized 45 · an · internal component · within various · WBS serics of eudio console · modules.
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p11 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p11%20(traced).json) (the CAD file: `1979 - M477 - Master Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p11 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p11%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -136,7 +136,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p11 (traced)
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.9 @ (56.4, 252.2)
 - **Words (OCR):** 280 in 117 lines: DESCRIPIION · 8-109 · AMPLIEIER_SERIES · Output Level · +30 dBm maximum · Power Rcquirements: · 21.5 volts · dc, 18 MA · quiescent current. · 65 MA at · +30 dBm output. · Ambient
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p12 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p12%20(traced).json) (the CAD file: `1979 - M477 - Master Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p12 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p12%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -145,7 +145,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p12 (traced)
 - **Outlines:** line 33 rings, 1,039 straight (3,188 mm) / 136 curved (210 mm); text 237 rings, 2,033 straight (2,368 mm) / 534 curved (852 mm)
 - **Words (OCR):** 30 in 15 lines: DESCRIPIION · 8-109 · AMPLIFIER_SERIES · inverting amplifier with · El externally strapped E6 _ · t0 · The output · 0 f a1 1 · mode ] s 0f · the 8-109 series · is actively · ba anced and is
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p13 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p13%20(traced).json) (the CAD file: `1979 - M477 - Master Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p13 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p13%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -154,7 +154,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p13 (traced)
 - **Outlines:** line 138 rings, 1,159 straight (4,117 mm) / 220 curved (338 mm); text 797 rings, 7,782 straight (8,540 mm) / 2,437 curved (2,983 mm)
 - **Words (OCR):** 115 in 108 lines: PARTS · LisT · 8-109 AMPLIF IER · SERIES · 8-109 · PART · DESCRIPTION · MFG · MFG PART · NUMBER · CI · Capacitor
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p14 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p14%20(traced).json) (the CAD file: `1979 - M477 - Master Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p14 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p14%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -163,7 +163,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p14 (traced)
 - **Outlines:** line 136 rings, 1,089 straight (4,104 mm) / 226 curved (336 mm); text 550 rings, 5,464 straight (5,890 mm) / 1,575 curved (1,898 mm)
 - **Words (OCR):** 99 in 86 lines: PARTS LiST · 8-109 AMPLIFIER · SERIES · 8-109 · PART · DESCRIPTION · MFG · MFG PART NUMBER · R6 · Resistor · 1/4w · 57 6k2
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p15 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p15%20(traced).json) (the CAD file: `1979 - M477 - Master Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p15 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p15%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -172,7 +172,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p15 (traced)
 - **Outlines:** line 66 rings, 1,321 straight (4,941 mm) / 249 curved (384 mm); text 701 rings, 6,389 straight (7,220 mm) / 1,841 curved (2,309 mm)
 - **Words (OCR):** 97 in 75 lines: PARTS LisT · 8-109  AMPLIFIER SERIES · 8-109A · Al parts a5 · per · 8-109 exccpt as · noted below · PART · DESCRIPTION · MFG · MFG PART NUMBER · Philips
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p16 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p16%20(traced).json) (the CAD file: `1979 - M477 - Master Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p16 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p16%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -181,7 +181,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p16 (traced)
 - **Outlines:** line 67 rings, 1,272 straight (4,919 mm) / 202 curved (321 mm); text 759 rings, 6,835 straight (7,818 mm) / 2,011 curved (2,462 mm)
 - **Words (OCR):** 107 in 84 lines: PARTS LiST · 8-109 AMPLIFIER · SERIES · 8-1090 · AI · parts J5 · per · 8-109 except a5 · noted below · PART · DESCRIPTION · MFG
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p17 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p17%20(traced).json) (the CAD file: `1979 - M477 - Master Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p17 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p17%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -190,7 +190,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p17 (traced)
 - **Outlines:** line 19 rings, 581 straight (3,609 mm) / 93 curved (146 mm); text 398 rings, 3,483 straight (4,018 mm) / 955 curved (1,200 mm)
 - **Words (OCR):** 46 in 32 lines: PARIS LiST · 8-109 AMPLIFIER · SERIES · 8-109C · 8-109 except as · below · All parts 45 · per · noted · PART · DESCIPTION · MFG
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p18 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p18%20(traced).json) (the CAD file: `1979 - M477 - Master Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p18 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p18%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -201,7 +201,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p18 (traced)
 - **Words (OCR):** 23 in 20 lines: WBS · M477 · Shio: · Hnen depressed_ tnc · output signa · SLO switch · fed · the · S0LO output_ · 10/77 · REDRAYN · ESSU IDATE
 - **Title block:** (135, 0)–(326, 325) mm: WBS · M477 · 10/77 · REDRAYN · ESSU IDATE · Revision · WBS WARD-BeCk bybtemS · M477 · MASTER MODULE · CKD · FRONT PANEL · SCALE · 477-04-003
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p19 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p19%20(traced).json) (the CAD file: `1979 - M477 - Master Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p19 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p19%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -215,7 +215,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p19 (traced)
 - **Title block:** (270, 2)–(432, 84) mm: 7/78 · 8-109A(E) WAS 1O9A(E) · 9.2. · 10/77 · REDRAWN · issue DATE · REVISION · APP · WBS WARD-BECK SySTEMS · DRN Mrw · M477 · ENG RKB · MASTER MODULE · CKD; LL · FUNCTIONAL · DIAGRAM · APP · ~SCALE ·
 - **Wiring (first pass):** 74 connected wire groups from 122 runs; labelled ends: 103 mm → 3/79, Metering  output Added, KR, 9.2.; 96 mm → Metering  output Added, KR, 1O9A(E), 9.2.; 37 mm → Summing, SUM; 36 mm → FADER, ( - ISdB); 32 mm → 8-1094, SUM
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p20 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p20%20(traced).json) (the CAD file: `1979 - M477 - Master Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p20 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p20%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -229,7 +229,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p20 (traced)
 - **Title block:** (360, 16)–(432, 31) mm: WBS WARD-Beck bybteMB · MRW · M477
 - **Wiring (first pass):** 118 connected wire groups from 710 runs; labelled ends: 252 mm → 5-1092; 240 mm → AMFLIFIER, 23s; 104 mm → 3i75, 7/78, 301 ', RILADDEDT9; 96 mm → PN3569, CR4, 22/2; 88 mm → CR5, Cz, 22725
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p21 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p21%20(traced).json) (the CAD file: `1979 - M477 - Master Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p21 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p21%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -240,7 +240,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p21 (traced)
 - **Closed boxes:** 68; named: Bl; Ci 3; El 5; Fl 6; HI 7; Kl 9; MII; N12; Pi13; R/14; 5/15; T/16
 - **Words (OCR):** 74 in 45 lines: INPUT · NPUT · SHIELD Bl · SHIELD · IC · Ci 3 IC · IC · El 5 IC · Ic Fl 6 iC · SOLO Out · HI 7 · SOLO OUT
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p22 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p22%20(traced).json) (the CAD file: `1979 - M477 - Master Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p22 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p22%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -254,7 +254,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p22 (traced)
 - **Title block:** (355, 18)–(432, 34) mm: KEYISION · WBS WAAD-BECK BYBTEnS · 8 = 109
 - **Wiring (first pass):** 61 connected wire groups from 471 runs; labelled ends: 180 mm → 40, R23, 4k7; 144 mm → I8k, 4.7p; 144 mm → PN3C45, PN3569, 22k, ERi; 137 mm → R32, 6.9, R3s, R33; 130 mm → Ris, +21+5Y
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p23 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p23%20(traced).json) (the CAD file: `1979 - M477 - Master Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p23 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p23%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -264,7 +264,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p23 (traced)
 - **Circles and arcs:** 12 circles, 0 arcs; largest r 16.7 @ (43.3, 300.2), r 15.8 @ (139.3, 110.5), r 15.8 @ (43.6, 111.4), r 15.7 @ (138.7, 300.3)
 - **Words (OCR):** 74 in 70 lines: E7 · E2 · 610 ~Ci · z3/1 · 33/6 · CRIG 22k · ~R24k · RS 30K · ~Rzz +* 7 · ~R2i 4K7 · ~RG JBk · Rzo470
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p24 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p24%20(traced).json) (the CAD file: `1979 - M477 - Master Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p24 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p24%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -276,7 +276,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p24 (traced)
 - **Words (OCR):** 139 in 110 lines: I5oop · Pn3645 Pu3569 PN3645 · 242431 Pn3645 Zn44oi 204401 · Rzi · rzz J5K · R23 2 · Jumpec < · rig 12 · R9 2K · Rio %k · R3 Bk2 · R24
 - **Title block:** (55, 0)–(432, 170) mm: WBS · R48 · R47 020 · R46 302 · CANADA · R45 · R44 · 209 · 7-105 · R43 300 · FIE4 · IEI · R7i 41 · 02E3 · ZE7 · 22/25 · 22/25 · 22/25 · 22/15 · C2} · c25 · C14 · Swio · 2/79 · Vidce · WBS TI-Oo2 · 3 7
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p25 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p25%20(traced).json) (the CAD file: `1979 - M477 - Master Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p25 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p25%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p25 (traced).dxf`).
 
 ### Page 26
 
@@ -289,7 +289,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p25 (traced)
 - **Words (OCR):** 72 in 70 lines: E3 · -2i-5Y · 2/2 · 10/2s · PN3645 · F3s6 · 2n2102 · 33/10 · FN3569 · R3o · RZ · 127
 - **Title block:** (356, 0)–(432, 34) mm: RLYISION · WBS WAAD-BECK SYSTEMS · 109E · Ru · BOOSTER AMPLIFIER · SCHEMATIC · B-109 02-006 · ISSUE
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p26 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p26%20(traced).json) (the CAD file: `1979 - M477 - Master Module p26 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p26 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p26%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p26 (traced).dxf`).
 
 ### Page 27
 
@@ -299,7 +299,7 @@ Every curve, box, word and wire group: [1979 - M477 - Master Module p26 (traced)
 - **Circles and arcs:** 15 circles, 0 arcs; largest r 17.5 @ (135.2, 300.9), r 17.5 @ (34.8, 104.2), r 17.4 @ (134.5, 103.3), r 17.4 @ (35.4, 301.3)
 - **Words (OCR):** 94 in 92 lines: E7 · E2 · 33/10 #C2 · 23/1 · ~Ci · 68p · RI6 22k · ~AJk · C8 · 47k · Ri · R2
 
-Every curve, box, word and wire group: [1979 - M477 - Master Module p27 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p27%20(traced).json) (the CAD file: `1979 - M477 - Master Module p27 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M477 - Master Module p27 (traced).json](../MANUALS/1979%20-%20M477%20-%20Master%20Module%20p27%20%28traced%29.json) (the CAD file: `1979 - M477 - Master Module p27 (traced).dxf`).
 
 ## Full text
 

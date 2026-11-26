@@ -15,6 +15,19 @@ Wiki page: [M477](../../../../PAGES/M477.md)
 - **Size:** 96,190 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 332 mm, 900 × 693 px traced (0.480 mm/px)
+- **Ink extent:** 8–432 mm across, 0–328 mm up
+- **Outlines:** line 594 rings, 4,112 straight (12,735 mm) / 1,086 curved (2,260 mm); text 182 rings, 992 straight (1,645 mm) / 373 curved (813 mm); tb 292 rings, 1,497 straight (2,383 mm) / 536 curved (1,118 mm)
+- **Circles and arcs:** 3 circles, 0 arcs; largest r 9.0 @ (219.5, 259.3), r 3.9 @ (262.3, 272.5), r 1.7 @ (53.9, 17.9)
+- **Closed boxes:** 37 (14 in the title block)
+- **Dots (junctions):** 2
+- **Words (OCR):** 35 in 27 lines: 1444J · 2444 · 025 · 2E2 0 · 0 24 · WBS · 7-105 · CANADA · 01E4 · 02E3 · 2E7 0 · 1435
+- **Title block:** (139, 28)–(432, 171) mm: WBS · 7-105 · CANADA · 2E7 0 · 1435 · Sipe · WBS WARO-Beck SySTEMS
+
+Every curve, box, word and wire group: [M477 - P25 - Component Layout (traced).json](../SCHEMATICS/M477%20-%20P25%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `M477 - P25 - Component Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 3 words corrected)

@@ -11,6 +11,20 @@ Wiki page: [M477](../../../../PAGES/M477.md)
 - **Size:** 288,363 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 295 mm, 2000 × 1365 px traced (0.216 mm/px)
+- **Ink extent:** 9–432 mm across, 0–292 mm up
+- **Outlines:** line 396 rings, 4,439 straight (10,460 mm) / 874 curved (1,200 mm); text 419 rings, 2,404 straight (2,183 mm) / 819 curved (1,014 mm); tb 53 rings, 341 straight (334 mm) / 88 curved (101 mm)
+- **Centre lines:** 5,602 paths (115 closed); straight 7,336 mm, curved 358 mm; horizontal 2,924 mm, vertical 2,006 mm, diagonal 2,406 mm
+- **Circles and arcs:** 6 circles, 64 arcs; largest r 4.2 @ (230.6, 118.8), r 4.2 @ (230.8, 64.8), r 4.2 @ (230.8, 258.2), r 4.2 @ (200.8, 264.8)
+- **Closed boxes:** 11 (8 in the title block)
+- **Words (OCR):** 90 in 88 lines: E3 · C3 · 713 · 10/25 · 02 · PN3c45 · 03 · RS · F356 · 2n2102 · 33/10 · 6k2
+- **Title block:** (356, 0)–(432, 35) mm: WBS · WAAD-BeCK SYSTEMS · 10?E · 21L · BOOSTER AMPLIFIER · SCHEMATIC · SCALE · 8- 109 · 006
+- **Wiring (first pass):** 62 connected wire groups from 441 runs; labelled ends: 188 mm → 2N4037, R23, 4k7; 176 mm → RS, 6k2, 4.7p; 157 mm → 2k2, RB; 146 mm → R3o, Vav, R3+, 23; 135 mm → I8v, 10/25
+
+Every curve, box, word and wire group: [1979 - M477 - BOOSTER AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/1979%20-%20M477%20-%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1979 - M477 - BOOSTER AMPLIFIER SCHEMATIC (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

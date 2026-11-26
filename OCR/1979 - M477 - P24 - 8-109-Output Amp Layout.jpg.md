@@ -11,6 +11,17 @@ Wiki page: [M477](../../../../PAGES/M477.md)
 - **Size:** 120,688 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 419 × 432 mm, 704 × 726 px traced (0.595 mm/px)
+- **Ink extent:** 16–402 mm across, 15–426 mm up
+- **Outlines:** line 279 rings, 2,216 straight (10,182 mm) / 639 curved (1,868 mm); text 551 rings, 3,539 straight (9,242 mm) / 1,185 curved (3,480 mm)
+- **Circles and arcs:** 13 circles, 0 arcs; largest r 16.9 @ (43.4, 300.1), r 15.9 @ (43.7, 111.3), r 15.9 @ (138.8, 300.2), r 15.8 @ (139.4, 110.4)
+- **Closed boxes:** 7
+- **Words (OCR):** 79 in 72 lines: E2 · E7 · 33/16 · E1 · ~C1 ~R2 4k · Fc2 · 2ek · ~Ri #41K · ~Rrz 4k7 ~R2i 4K7 · ~Rib · Rs 30K · ~R6 JBk
+
+Every curve, box, word and wire group: [1979 - M477 - P24 - 8-109-Output Amp Layout (traced).json](../SCHEMATICS/1979%20-%20M477%20-%20P24%20-%208-109-Output%20Amp%20Layout%20%28traced%29.json) (the CAD file: `1979 - M477 - P24 - 8-109-Output Amp Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

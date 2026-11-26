@@ -11,6 +11,17 @@ Wiki page: [M477](../../../../PAGES/M477.md)
 - **Size:** 84,547 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 415 × 432 mm, 670 × 697 px traced (0.620 mm/px)
+- **Ink extent:** 5–411 mm across, 4–429 mm up
+- **Outlines:** line 200 rings, 1,618 straight (9,652 mm) / 351 curved (1,193 mm); text 622 rings, 3,929 straight (10,547 mm) / 1,355 curved (4,187 mm)
+- **Circles and arcs:** 15 circles, 0 arcs; largest r 16.7 @ (34.5, 104.6), r 16.7 @ (134.9, 301.1), r 16.6 @ (35.0, 301.5), r 16.6 @ (134.2, 103.6)
+- **Closed boxes:** 3
+- **Words (OCR):** 91 in 88 lines: E7 · E2 · -C133/10 · FC2 33/6C · c8-8p · RI6 22k · ~R2-4K · ~Ri8 2ek · RI · RS · 6k2 · R4 Lk2
+
+Every curve, box, word and wire group: [1979 - M477 - P27 - 8-109E-Booster Amp Layout (traced).json](../SCHEMATICS/1979%20-%20M477%20-%20P27%20-%208-109E-Booster%20Amp%20Layout%20%28traced%29.json) (the CAD file: `1979 - M477 - P27 - 8-109E-Booster Amp Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

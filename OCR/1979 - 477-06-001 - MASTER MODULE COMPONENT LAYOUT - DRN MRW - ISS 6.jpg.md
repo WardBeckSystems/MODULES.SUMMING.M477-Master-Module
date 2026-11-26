@@ -33,7 +33,7 @@ Wiki page: [M477](../../../../PAGES/M477.md)
 - **Words (OCR):** 145 in 116 lines: 5oof · 4k · PN3645 · PN3645 2N4401 · PN3645 ~2n44oi 204401 · Rzi · R22 · Jumper & · R24 · rig 10o · Rii ISk · Rg 22k
 - **Title block:** (54, 0)–(432, 170) mm: R48 Gzo · WBS · R47 #20 · R46 Joe · CANADA · R44 · 200 · 7-105 · R43 300 · FIE4 · IEI · R7i 41 · 92E3 · ZE7 · 22/25 · 22/25 · 22/25 · 22/15 · (23 · C24 · 222 · 043645 3] a · PN3569 · Swio · 2/9 36|( ·
 
-Every curve, box, word and wire group: [1979 - 477-06-001 - MASTER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6 (traced).json](../SCHEMATICS/1979%20-%20477-06-001%20-%20MASTER%20MODULE%20COMPONENT%20LAYOUT%20-%20DRN%20MRW%20-%20ISS%206%20(traced).json) (the CAD file: `1979 - 477-06-001 - MASTER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 477-06-001 - MASTER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6 (traced).json](../SCHEMATICS/1979%20-%20477-06-001%20-%20MASTER%20MODULE%20COMPONENT%20LAYOUT%20-%20DRN%20MRW%20-%20ISS%206%20%28traced%29.json) (the CAD file: `1979 - 477-06-001 - MASTER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6 (traced).dxf`).
 
 ## Full text
 
