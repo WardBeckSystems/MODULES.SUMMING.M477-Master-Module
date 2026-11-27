@@ -1,17 +1,17 @@
-# M477 · Summing
+# M477 Master Module · Summing
 
 Ward-Beck Systems M477, 1979|12. Wiki page: [M477 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M477.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 21 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 189 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 42 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 40 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 190 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 4 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 40 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -122,14 +122,12 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKemd2cnNnT0EzUmc/view?resourcekey=0-CB59LqXSO8f_rLIXly7_sw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKemd2cnNnT0EzUmc&resourcekey=0-CB59LqXSO8f_rLIXly7_sw" width="240" alt="1979 - M477 - Master Module.jpg"></a><br><sub>1979|12 · Master Module</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [1979|12 · Master Module_small](https://drive.google.com/file/d/0B0yR0b5T78SKUmdtd1lUOHdVeE0/view?resourcekey=0-UH4UYFmbodOfQj9bdkm_kg) · [1979|12 · wbsps - module - m477 master module_small](https://drive.google.com/file/d/0B0yR0b5T78SKQVdpNE5rRjNUd1k/view?resourcekey=0-eFEx_n0tJTlt47tOLDx2XA)
-
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKczExdjFhV1lwNEk/view?resourcekey=0-WUvWqQ0zOOb30G0fheoUDg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKczExdjFhV1lwNEk&resourcekey=0-WUvWqQ0zOOb30G0fheoUDg" width="240" alt="1979 - M477 - P18 - Front Panel.jpg"></a><br><sub>1979|12 · P18 - Front Panel</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKczExdjFhV1lwNEk/view?resourcekey=0-WUvWqQ0zOOb30G0fheoUDg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKczExdjFhV1lwNEk&resourcekey=0-WUvWqQ0zOOb30G0fheoUDg" width="240" alt="1979 - M477 - P18 - Front Panel.jpg"></a><br><sub>1979|12 · P18 - Front Panel · <a href="MECHANICAL/1979%20-%20M477%20-%20P18%20-%20Front%20Panel%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 ## Schematics
@@ -137,19 +135,19 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOHQzbFE5WGJCZUE/view?resourcekey=0-WGIzE2CGxLVXEPPasDAfMA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOHQzbFE5WGJCZUE&resourcekey=0-WGIzE2CGxLVXEPPasDAfMA" width="240" alt="1979 - M477 - 477-01-001 - OHM MONITOR OUTPUT METERING OUTPUT SOLO SOLO SUMMING.jpg"></a><br><sub>1979|12 · 477-01-001 - OHM MONITOR OUTPUT METERING OUTPUT SOLO SOLO SUMMING · <a href="SCHEMATICS/1979%20-%20M477%20-%20477-01-001%20-%20OHM%20MONITOR%20OUTPUT%20METERING%20OUTPUT%20SOLO%20SOLO%20SUMMING%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbXQ1TjQtUzhjY3c/view?resourcekey=0-nxpQYeh-laEENIHLPJjy0Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbXQ1TjQtUzhjY3c&resourcekey=0-nxpQYeh-laEENIHLPJjy0Q" width="240" alt="1979 - M477 - 477-06-001 - MASTER MODULE COMPONENT LAY.jpg"></a><br><sub>1979|12 · 477-06-001 - MASTER MODULE COMPONENT LAY · <a href="SCHEMATICS/1979%20-%20M477%20-%20477-06-001%20-%20MASTER%20MODULE%20COMPONENT%20LAY%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZm9uSzNYWUo3UGc/view?resourcekey=0-xyWe7DjvPwI4WJ2nGfHO7g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZm9uSzNYWUo3UGc&resourcekey=0-xyWe7DjvPwI4WJ2nGfHO7g" width="240" alt="1979 - M477 - 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC.jpg"></a><br><sub>1979|12 · 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOGhLR29fbzBpS0E/view?resourcekey=0-pJosVqFAc1L8QC4rh0ZuNQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOGhLR29fbzBpS0E&resourcekey=0-pJosVqFAc1L8QC4rh0ZuNQ" width="240" alt="1979 - M477 - BOOSTER AMPLIFIER SCHEMATIC.jpg"></a><br><sub>1979|12 · BOOSTER AMPLIFIER SCHEMATIC</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbm42MURaYk1iWHc/view?resourcekey=0-cYIAVpjIWJQ_jBDIBTkiPw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbm42MURaYk1iWHc&resourcekey=0-cYIAVpjIWJQ_jBDIBTkiPw" width="240" alt="1979 - M477 - P20 - Schematic.jpg"></a><br><sub>1979|12 · P20 - Schematic</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKekUzcTBPckZ2RW8/view?resourcekey=0-w5ZAe9bnin86wQYO-jmoNQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKekUzcTBPckZ2RW8&resourcekey=0-w5ZAe9bnin86wQYO-jmoNQ" width="240" alt="1979 - M477 - P24 - 8-109-Output Amp Layout.jpg"></a><br><sub>1979|12 · P24 - 8-109-Output Amp Layout</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOHhZaGQ2OXh3c3c/view?resourcekey=0-z32ewZtq8y1T6HHgS4pbZA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOHhZaGQ2OXh3c3c&resourcekey=0-z32ewZtq8y1T6HHgS4pbZA" width="240" alt="1979 - M477 - P27 - 8-109E-Booster Amp Layout.jpg"></a><br><sub>1979|12 · P27 - 8-109E-Booster Amp Layout</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOHQzbFE5WGJCZUE/view?resourcekey=0-WGIzE2CGxLVXEPPasDAfMA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOHQzbFE5WGJCZUE&resourcekey=0-WGIzE2CGxLVXEPPasDAfMA" width="240" alt="1979 - M477 - 477-01-001 - OHM MONITOR OUTPUT METERING OUTPUT SOLO SOLO SUMMING.jpg"></a><br><sub>1979|12 · 477-01-001 - OHM MONITOR OUTPUT METERING OUTPUT SOLO SOLO SUMMING · <a href="SCHEMATICS/1979%20-%20M477%20-%20477-01-001%20-%20OHM%20MONITOR%20OUTPUT%20METERING%20OUTPUT%20SOLO%20SOLO%20SUMMING%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbXQ1TjQtUzhjY3c/view?resourcekey=0-nxpQYeh-laEENIHLPJjy0Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbXQ1TjQtUzhjY3c&resourcekey=0-nxpQYeh-laEENIHLPJjy0Q" width="240" alt="1979 - M477 - 477-06-001 - MASTER MODULE COMPONENT LAY.jpg"></a><br><sub>1979|12 · 477-06-001 - MASTER MODULE COMPONENT LAY · <a href="SCHEMATICS/1979%20-%20M477%20-%20477-06-001%20-%20MASTER%20MODULE%20COMPONENT%20LAY%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZm9uSzNYWUo3UGc/view?resourcekey=0-xyWe7DjvPwI4WJ2nGfHO7g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZm9uSzNYWUo3UGc&resourcekey=0-xyWe7DjvPwI4WJ2nGfHO7g" width="240" alt="1979 - M477 - 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC.jpg"></a><br><sub>1979|12 · 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC · <a href="SCHEMATICS/1979%20-%20M477%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOGhLR29fbzBpS0E/view?resourcekey=0-pJosVqFAc1L8QC4rh0ZuNQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOGhLR29fbzBpS0E&resourcekey=0-pJosVqFAc1L8QC4rh0ZuNQ" width="240" alt="1979 - M477 - BOOSTER AMPLIFIER SCHEMATIC.jpg"></a><br><sub>1979|12 · BOOSTER AMPLIFIER SCHEMATIC · <a href="SCHEMATICS/1979%20-%20M477%20-%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbm42MURaYk1iWHc/view?resourcekey=0-cYIAVpjIWJQ_jBDIBTkiPw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbm42MURaYk1iWHc&resourcekey=0-cYIAVpjIWJQ_jBDIBTkiPw" width="240" alt="1979 - M477 - P20 - Schematic.jpg"></a><br><sub>1979|12 · P20 - Schematic · <a href="SCHEMATICS/1979%20-%20M477%20-%20P20%20-%20Schematic%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKekUzcTBPckZ2RW8/view?resourcekey=0-w5ZAe9bnin86wQYO-jmoNQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKekUzcTBPckZ2RW8&resourcekey=0-w5ZAe9bnin86wQYO-jmoNQ" width="240" alt="1979 - M477 - P24 - 8-109-Output Amp Layout.jpg"></a><br><sub>1979|12 · P24 - 8-109-Output Amp Layout · <a href="SCHEMATICS/1979%20-%20M477%20-%20P24%20-%208-109-Output%20Amp%20Layout%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOHhZaGQ2OXh3c3c/view?resourcekey=0-z32ewZtq8y1T6HHgS4pbZA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOHhZaGQ2OXh3c3c&resourcekey=0-z32ewZtq8y1T6HHgS4pbZA" width="240" alt="1979 - M477 - P27 - 8-109E-Booster Amp Layout.jpg"></a><br><sub>1979|12 · P27 - 8-109E-Booster Amp Layout · <a href="SCHEMATICS/1979%20-%20M477%20-%20P27%20-%208-109E-Booster%20Amp%20Layout%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1979 - 477-06-001 - MASTER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6.jpg`, `M477 - P20 - Schematic.jpg`, `M477 - P25 - Component Layout.jpg`
+Not on Google Drive yet: `1979 - 477-06-001 - MASTER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6.jpg`, `M477 - P20 - Schematic.jpg`
 
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRHZ4V3FmWGQyYTQ/view?resourcekey=0-WEpF_q0wAghcE0btKigGfA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRHZ4V3FmWGQyYTQ&resourcekey=0-WEpF_q0wAghcE0btKigGfA" width="240" alt="1979 - M477 - P22 - Pin Out.jpg"></a><br><sub>1979|12 · P22 - Pin Out</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRHZ4V3FmWGQyYTQ/view?resourcekey=0-WEpF_q0wAghcE0btKigGfA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRHZ4V3FmWGQyYTQ&resourcekey=0-WEpF_q0wAghcE0btKigGfA" width="240" alt="1979 - M477 - P22 - Pin Out.jpg"></a><br><sub>1979|12 · P22 - Pin Out · <a href="PINOUTS/1979%20-%20M477%20-%20P22%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M477 - RTO-144 Connections.pdf`
@@ -231,11 +229,20 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [1979 - M477 - 477-01-001 - OHM MONITOR OUTPUT METERING OUTPUT SOLO SOLO SUMMING.kicad_sch](KICAD/1979%20-%20M477%20-%20477-01-001%20-%20OHM%20MONITOR%20OUTPUT%20METERING%20OUTPUT%20SOLO%20SOLO%20SUMMING.kicad_sch)
+- [1979 - M477 - 8-109-02-002 - OUTPUT AMPLIFIER SCHEMATIC.kicad_sch](KICAD/1979%20-%20M477%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20SCHEMATIC.kicad_sch)
+- [1979 - M477 - BOOSTER AMPLIFIER SCHEMATIC.kicad_sch](KICAD/1979%20-%20M477%20-%20BOOSTER%20AMPLIFIER%20SCHEMATIC.kicad_sch)
 - [1979 - M477 - Master Module (2) p17.kicad_sch](KICAD/1979%20-%20M477%20-%20Master%20Module%20(2)%20p17.kicad_sch)
 - [1979 - M477 - Master Module p20.kicad_sch](KICAD/1979%20-%20M477%20-%20Master%20Module%20p20.kicad_sch)
 - [1979 - M477 - Master Module p21.kicad_sch](KICAD/1979%20-%20M477%20-%20Master%20Module%20p21.kicad_sch)
 - [1979 - M477 - Master Module p23.kicad_sch](KICAD/1979%20-%20M477%20-%20Master%20Module%20p23.kicad_sch)
+- [1979 - M477 - P20 - Schematic.kicad_sch](KICAD/1979%20-%20M477%20-%20P20%20-%20Schematic.kicad_sch)
+- [M477 - P20 - Schematic.kicad_sch](KICAD/M477%20-%20P20%20-%20Schematic.kicad_sch)
 - [M477.kicad_sym](KICAD/M477.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
