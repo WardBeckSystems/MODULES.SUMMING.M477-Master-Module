@@ -3,188 +3,901 @@
  "connector": "RTO-144",
  "type": "M477 Master Module",
  "series": null,
- "contacts": "22 contacts (P2)",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z opposite 1-22",
+   "view": "rear",
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M477/M477.rto144.json",
+  "sheet_agrees": "12 of 14"
+ },
  "pins": [
   {
+   "connector": "P1",
    "pin": "1",
-   "signal": "SUMMING INPUT",
+   "ref": "1",
+   "also": "A",
+   "same_row": null,
+   "signal": "INPUT",
    "kind": "in",
-   "pair": "A1",
-   "polarity": "+",
+   "port": "INPUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M477/M477.rto144.json",
-   "page": 1
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Summing Input +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "2",
+   "ref": "2",
+   "also": "B",
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": "C",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "ref": "4",
+   "also": "D",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "ref": "5",
+   "also": "E",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "6",
+   "also": "F",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": "H",
+   "same_row": null,
+   "signal": "SOLO OUT",
+   "kind": "out",
+   "port": "SOLO OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "8",
-   "signal": "INSERT SEND",
+   "ref": "8",
+   "also": "J",
+   "same_row": null,
+   "signal": "ATT OUT",
    "kind": "out",
-   "pair": "B1",
-   "polarity": "-",
+   "port": "ATT OUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M477/M477.rto144.json",
-   "page": 1
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Insert Send -",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "9",
+   "ref": "9",
+   "also": "K",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": "L",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": "M",
+   "same_row": null,
+   "signal": "METER OUTPUT",
+   "kind": "out",
+   "port": "METER OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "12",
+   "also": "N",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "ref": "13",
+   "also": "P",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "14",
-   "signal": "INSERT SEND",
+   "ref": "14",
+   "also": "R",
+   "same_row": null,
+   "signal": "OUTPUT AMP OUT",
    "kind": "out",
-   "pair": "B1",
-   "polarity": "+",
+   "port": "OUTPUT AMP OUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M477/M477.rto144.json",
-   "page": 1
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Insert Send +",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "15",
+   "ref": "15",
+   "also": "S",
+   "same_row": null,
    "signal": "MONITOR OUT",
    "kind": "out",
-   "pair": "A4",
-   "polarity": "+",
+   "port": "MONITOR OUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M477/M477.rto144.json",
-   "page": 1
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Monitor Out +",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
-   "pin": "17",
-   "signal": "METER OUT",
+   "connector": "P1",
+   "pin": "16",
+   "ref": "16",
+   "also": "T",
+   "same_row": null,
+   "signal": "OUTPUT 2",
    "kind": "out",
-   "pair": "A3",
-   "polarity": "+",
+   "port": "OUTPUT 2",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M477/M477.rto144.json",
-   "page": 1
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
+   "pin": "17",
+   "ref": "17",
+   "also": "U",
+   "same_row": null,
+   "signal": "OUTPUT 1",
+   "kind": "out",
+   "port": "OUTPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Meter Out +",
+    "kind": "out",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "ref": "18",
+   "also": "V",
+   "same_row": null,
+   "signal": "CONTROL COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "19",
+   "ref": "19",
+   "also": "W",
+   "same_row": null,
    "signal": "-25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M477/M477.rto144.json",
-   "page": 1
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VEE-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "20",
+   "ref": "20",
+   "also": "X",
+   "same_row": null,
    "signal": "COMMON",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M477/M477.rto144.json",
-   "page": 1
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "21",
+   "ref": "21",
+   "also": "Y",
+   "same_row": null,
    "signal": "+25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M477/M477.rto144.json",
-   "page": 1
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "22",
-   "signal": "CHASSIS",
+   "ref": "22",
+   "also": "Z",
+   "same_row": null,
+   "signal": "CHASSIS GND",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M477/M477.rto144.json",
-   "page": 1
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "CHASSIS",
+    "kind": "ground",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "A",
-   "signal": "SUMMING INPUT",
+   "ref": "A",
+   "also": "1",
+   "same_row": null,
+   "signal": "INPUT",
    "kind": "in",
-   "pair": "A1",
-   "polarity": "-",
+   "port": "INPUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M477/M477.rto144.json",
-   "page": 1
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Summing Input -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "B",
+   "ref": "B",
+   "also": "2",
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "ref": "C",
+   "also": "3",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "ref": "D",
+   "also": "4",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "ref": "E",
+   "also": "5",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "ref": "F",
+   "also": "6",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "ref": "H",
+   "also": "7",
+   "same_row": null,
+   "signal": "SOLO OUT",
+   "kind": "out",
+   "port": "SOLO OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "J",
-   "signal": "INSERT RETURN",
-   "kind": "in",
-   "pair": "B2",
-   "polarity": "-",
+   "ref": "J",
+   "also": "8",
+   "same_row": null,
+   "signal": "ATT OUT",
+   "kind": "out",
+   "port": "ATT OUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M477/M477.rto144.json",
-   "page": 1
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Insert Return -",
+    "kind": "in",
+    "agrees": false
+   }
   },
   {
+   "connector": "P1",
+   "pin": "K",
+   "ref": "K",
+   "also": "9",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "ref": "L",
+   "also": "10",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "M",
+   "ref": "M",
+   "also": "11",
+   "same_row": null,
+   "signal": "METER OUTPUT",
+   "kind": "out",
+   "port": "METER OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "N",
+   "ref": "N",
+   "also": "12",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "ref": "P",
+   "also": "13",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "R",
-   "signal": "INSERT RETURN",
-   "kind": "in",
-   "pair": "B2",
-   "polarity": "+",
+   "ref": "R",
+   "also": "14",
+   "same_row": null,
+   "signal": "OUTPUT AMP OUT",
+   "kind": "out",
+   "port": "OUTPUT AMP OUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M477/M477.rto144.json",
-   "page": 1
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Insert Return +",
+    "kind": "in",
+    "agrees": false
+   }
   },
   {
+   "connector": "P1",
    "pin": "S",
+   "ref": "S",
+   "also": "15",
+   "same_row": null,
    "signal": "MONITOR OUT",
    "kind": "out",
-   "pair": "A4",
-   "polarity": "-",
+   "port": "MONITOR OUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M477/M477.rto144.json",
-   "page": 1
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Monitor Out -",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "T",
-   "signal": "METER OUT",
+   "ref": "T",
+   "also": "16",
+   "same_row": null,
+   "signal": "OUTPUT 2",
    "kind": "out",
-   "pair": "A3",
-   "polarity": "-",
+   "port": "OUTPUT 2",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M477/M477.rto144.json",
-   "page": 1
-  }
- ],
- "straps": [],
- "power": [
-  {
-   "rail": "VEE-AUDIO",
-   "style": "NEW",
-   "volts": -25,
-   "max_a": 0.1,
-   "supply": "P2-19",
-   "ground": "P2-20",
-   "link": 2
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Meter Out -",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
-   "rail": "VCC-AUDIO",
-   "style": "NEW",
-   "volts": 25,
-   "max_a": 0.2,
-   "supply": "P2-21",
-   "ground": "P2-20",
-   "link": 1
+   "connector": "P1",
+   "pin": "U",
+   "ref": "U",
+   "also": "17",
+   "same_row": null,
+   "signal": "OUTPUT 1",
+   "kind": "out",
+   "port": "OUTPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "V",
+   "ref": "V",
+   "also": "18",
+   "same_row": null,
+   "signal": "SOLO CONTROL",
+   "kind": "control_in",
+   "port": "SOLO CONTROL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "ref": "W",
+   "also": "19",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "ref": "X",
+   "also": "20",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Y",
+   "ref": "Y",
+   "also": "21",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "ref": "Z",
+   "also": "22",
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M477/PINOUTS/1979 - M477 - P22 - Pin Out.pinout.json"
+   ],
+   "sheet": null
   }
  ],
- "sources": [
-  "Engineering/RTO-144/M477/M477.rto144.json"
+ "ports": [
+  {
+   "name": "INPUT",
+   "dir": "in",
+   "pins": {
+    "unmarked": [
+     "P1-A",
+     "P1-1"
+    ]
+   }
+  },
+  {
+   "name": "SOLO OUT",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P1-H",
+     "P1-7"
+    ]
+   }
+  },
+  {
+   "name": "ATT OUT",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P1-J",
+     "P1-8"
+    ]
+   }
+  },
+  {
+   "name": "METER OUTPUT",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P1-M",
+     "P1-11"
+    ]
+   }
+  },
+  {
+   "name": "OUTPUT AMP OUT",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P1-R",
+     "P1-14"
+    ]
+   }
+  },
+  {
+   "name": "MONITOR OUT",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P1-S",
+     "P1-15"
+    ]
+   }
+  },
+  {
+   "name": "OUTPUT 2",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P1-T",
+     "P1-16"
+    ]
+   }
+  },
+  {
+   "name": "OUTPUT 1",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P1-U",
+     "P1-17"
+    ]
+   }
+  },
+  {
+   "name": "SOLO CONTROL",
+   "dir": "control_in",
+   "pins": {
+    "unmarked": "P1-V"
+   }
+  }
+ ],
+ "inserts": [],
+ "straps": [],
+ "conflicts": [
+  {
+   "pin": "P1-J",
+   "kept": "ATT OUT (out)",
+   "other": "Insert Return - (in)",
+   "from": "RTO-144 sheet"
+  },
+  {
+   "pin": "P1-R",
+   "kept": "OUTPUT AMP OUT (out)",
+   "other": "Insert Return + (in)",
+   "from": "RTO-144 sheet"
+  }
+ ],
+ "to_check": [
+  {
+   "what": "disagree",
+   "pin": "P1-J",
+   "detail": "kept ATT OUT (out); RTO-144 sheet says Insert Return - (in)"
+  },
+  {
+   "what": "disagree",
+   "pin": "P1-R",
+   "detail": "kept OUTPUT AMP OUT (out); RTO-144 sheet says Insert Return + (in)"
+  }
  ]
 }

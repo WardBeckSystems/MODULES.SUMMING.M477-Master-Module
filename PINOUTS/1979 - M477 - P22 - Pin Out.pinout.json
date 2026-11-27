@@ -1,0 +1,565 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1979 - M477 - P22 - Pin Out.jpg",
+  "module": "M477",
+  "applies_to": [
+    "M477"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "477-04-002",
+    "title": "M477 MASTER MODULE CONNECTOR REAR VIEW",
+    "date": "1977-07",
+    "issue": "2",
+    "drawn": "E.R."
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 44,
+      "rows": "A-Z opposite 1-22",
+      "view": "rear",
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "A",
+      "also": "1",
+      "as_drawn": "INPUT",
+      "signal": "INPUT",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": "A",
+      "as_drawn": "INPUT",
+      "signal": "INPUT",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "B",
+      "also": "2",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": "B",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "C",
+      "also": "3",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": "C",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "D",
+      "also": "4",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": "D",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "E",
+      "also": "5",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": "E",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "F",
+      "also": "6",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": "F",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "H",
+      "also": "7",
+      "as_drawn": "SOLO OUT",
+      "signal": "SOLO OUT",
+      "kind": "out",
+      "port": "SOLO OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": "H",
+      "as_drawn": "SOLO OUT",
+      "signal": "SOLO OUT",
+      "kind": "out",
+      "port": "SOLO OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "J",
+      "also": "8",
+      "as_drawn": "ATT OUT",
+      "signal": "ATT OUT",
+      "kind": "out",
+      "port": "ATT OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": "J",
+      "as_drawn": "ATT OUT",
+      "signal": "ATT OUT",
+      "kind": "out",
+      "port": "ATT OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "K",
+      "also": "9",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": "K",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "L",
+      "also": "10",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": "L",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "M",
+      "also": "11",
+      "as_drawn": "METER OUTPUT",
+      "signal": "METER OUTPUT",
+      "kind": "out",
+      "port": "METER OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": "M",
+      "as_drawn": "METER OUTPUT",
+      "signal": "METER OUTPUT",
+      "kind": "out",
+      "port": "METER OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "N",
+      "also": "12",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": "N",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "P",
+      "also": "13",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": "P",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "R",
+      "also": "14",
+      "as_drawn": "OUTPUT AMP OUT",
+      "signal": "OUTPUT AMP OUT",
+      "kind": "out",
+      "port": "OUTPUT AMP OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": "R",
+      "as_drawn": "OUTPUT AMP OUT",
+      "signal": "OUTPUT AMP OUT",
+      "kind": "out",
+      "port": "OUTPUT AMP OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "S",
+      "also": "15",
+      "as_drawn": "MONITOR OUT",
+      "signal": "MONITOR OUT",
+      "kind": "out",
+      "port": "MONITOR OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": "S",
+      "as_drawn": "MONITOR OUT",
+      "signal": "MONITOR OUT",
+      "kind": "out",
+      "port": "MONITOR OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "T",
+      "also": "16",
+      "as_drawn": "OUTPUT #2",
+      "signal": "OUTPUT 2",
+      "kind": "out",
+      "port": "OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": "T",
+      "as_drawn": "OUTPUT #2",
+      "signal": "OUTPUT 2",
+      "kind": "out",
+      "port": "OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "U",
+      "also": "17",
+      "as_drawn": "OUTPUT #1",
+      "signal": "OUTPUT 1",
+      "kind": "out",
+      "port": "OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "17",
+      "also": "U",
+      "as_drawn": "OUTPUT #1",
+      "signal": "OUTPUT 1",
+      "kind": "out",
+      "port": "OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "V",
+      "also": "18",
+      "as_drawn": "SOLO CONTROL",
+      "signal": "SOLO CONTROL",
+      "kind": "control_in",
+      "port": "SOLO CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": "V",
+      "as_drawn": "CONTROL COM",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "W",
+      "also": "19",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": "W",
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "X",
+      "also": "20",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": "X",
+      "as_drawn": "±COMMON",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Y",
+      "also": "21",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": "Y",
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Z",
+      "also": "22",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": "Z",
+      "as_drawn": "CHASSIS GND",
+      "signal": "CHASSIS GND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "INPUT",
+      "dir": "in",
+      "pins": {
+        "unmarked": [
+          "P1-A",
+          "P1-1"
+        ]
+      }
+    },
+    {
+      "name": "SOLO OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P1-H",
+          "P1-7"
+        ]
+      }
+    },
+    {
+      "name": "ATT OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P1-J",
+          "P1-8"
+        ]
+      }
+    },
+    {
+      "name": "METER OUTPUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P1-M",
+          "P1-11"
+        ]
+      }
+    },
+    {
+      "name": "OUTPUT AMP OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P1-R",
+          "P1-14"
+        ]
+      }
+    },
+    {
+      "name": "MONITOR OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P1-S",
+          "P1-15"
+        ]
+      }
+    },
+    {
+      "name": "OUTPUT 2",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P1-T",
+          "P1-16"
+        ]
+      }
+    },
+    {
+      "name": "OUTPUT 1",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P1-U",
+          "P1-17"
+        ]
+      }
+    },
+    {
+      "name": "SOLO CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P1-V"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "Connector name not drawn (P1 assumed)",
+    "CKD. is a signature"
+  ],
+  "confidence": "high",
+  "notes": "Letter and number contacts each labelled on their own side; every contact is its own entry (also = opposite contact). Same words both sides on signal rows; polarity null. Legend: IC = internally connected. Size A, DATE JULY 77, ISS 2 (revision block: ISS 2, MOD 3611). ATT OUT (J/8) and OUTPUT AMP OUT (R/14) are not labelled as inserts and no return is drawn, so no insert is recorded."
+}

@@ -156,24 +156,59 @@ Not on Google Drive yet: `M477 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-22 contacts (P2). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 12 of 14 contacts; 2 to check (`conflicts`). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- disagree P1-J: kept ATT OUT (out); RTO-144 sheet says Insert Return - (in)
+- disagree P1-R: kept OUTPUT AMP OUT (out); RTO-144 sheet says Insert Return + (in)
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | SUMMING INPUT | in | A1 + | high |
-| 8 | INSERT SEND | out | B1 - | high |
-| 14 | INSERT SEND | out | B1 + | high |
-| 15 | MONITOR OUT | out | A4 + | high |
-| 17 | METER OUT | out | A3 + | high |
+| 1 | INPUT | in | INPUT | high |
+| 2 | SHIELD | shield |  | high |
+| 3 | IC (INTERNALLY CONNECTED) | other |  | high |
+| 4 | IC (INTERNALLY CONNECTED) | other |  | high |
+| 5 | IC (INTERNALLY CONNECTED) | other |  | high |
+| 6 | IC (INTERNALLY CONNECTED) | other |  | high |
+| 7 | SOLO OUT | out | SOLO OUT | high |
+| 8 | ATT OUT | out | ATT OUT | high |
+| 9 | IC (INTERNALLY CONNECTED) | other |  | high |
+| 10 | IC (INTERNALLY CONNECTED) | other |  | high |
+| 11 | METER OUTPUT | out | METER OUTPUT | high |
+| 12 | IC (INTERNALLY CONNECTED) | other |  | high |
+| 13 | IC (INTERNALLY CONNECTED) | other |  | high |
+| 14 | OUTPUT AMP OUT | out | OUTPUT AMP OUT | high |
+| 15 | MONITOR OUT | out | MONITOR OUT | high |
+| 16 | OUTPUT 2 | out | OUTPUT 2 | high |
+| 17 | OUTPUT 1 | out | OUTPUT 1 | high |
+| 18 | CONTROL COMMON | ground |  | high |
 | 19 | -25 V | power |  | high |
 | 20 | COMMON | ground |  | high |
 | 21 | +25 V | power |  | high |
-| 22 | CHASSIS | ground |  | high |
-| A | SUMMING INPUT | in | A1 - | high |
-| J | INSERT RETURN | in | B2 - | high |
-| R | INSERT RETURN | in | B2 + | high |
-| S | MONITOR OUT | out | A4 - | high |
-| T | METER OUT | out | A3 - | high |
+| 22 | CHASSIS GND | ground |  | high |
+| A | INPUT | in | INPUT | high |
+| B | SHIELD | shield |  | high |
+| C | IC (INTERNALLY CONNECTED) | other |  | high |
+| D | IC (INTERNALLY CONNECTED) | other |  | high |
+| E | IC (INTERNALLY CONNECTED) | other |  | high |
+| F | IC (INTERNALLY CONNECTED) | other |  | high |
+| H | SOLO OUT | out | SOLO OUT | high |
+| J | ATT OUT | out | ATT OUT | high |
+| K | IC (INTERNALLY CONNECTED) | other |  | high |
+| L | IC (INTERNALLY CONNECTED) | other |  | high |
+| M | METER OUTPUT | out | METER OUTPUT | high |
+| N | IC (INTERNALLY CONNECTED) | other |  | high |
+| P | IC (INTERNALLY CONNECTED) | other |  | high |
+| R | OUTPUT AMP OUT | out | OUTPUT AMP OUT | high |
+| S | MONITOR OUT | out | MONITOR OUT | high |
+| T | OUTPUT 2 | out | OUTPUT 2 | high |
+| U | OUTPUT 1 | out | OUTPUT 1 | high |
+| V | SOLO CONTROL | control_in | SOLO CONTROL | high |
+| W | IC (INTERNALLY CONNECTED) | other |  | high |
+| X | IC (INTERNALLY CONNECTED) | other |  | high |
+| Y | IC (INTERNALLY CONNECTED) | other |  | high |
+| Z | IC (INTERNALLY CONNECTED) | other |  | high |
 
 ## Manuals and documents
 
