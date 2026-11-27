@@ -13,6 +13,107 @@ Ward-Beck Systems M477, 1979|12. Wiki page: [M477 on WBSps.ca](https://wardbecks
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 42 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [15 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1979 - M477 - Master Module.pdf](MANUALS/1979%20-%20M477%20-%20Master%20Module.pdf) page 5 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | 8 dB ±0.5 dB (with fader in 15 dB in-hand&quot; position) |
+| **Frequency response** | ±0.25 dB from 20 Hz to 20 kHz. |
+| **Noise** | 80 dB below +8 dBm nomina ] output Teve] (20 Hz to 20 kHz) |
+| **Harmonic distortion** | Less than 0.25% from 30 Hz to 20 kHz at +24 dBm output or Tess (Typica]y Tess than 0.05% across Most of band - width.) |
+| **Source impedance** |  |
+| &nbsp;&nbsp;Summing | 30,000 ohms baLanced. |
+| **Input impedance** |  |
+| &nbsp;&nbsp;Summing | Less than 5 ohms |
+| **At 8-1094 output pins 14 /R** | Les 5 than 100 ohms At outputs #1 and #2: 600 ohms At MONITOR output: 1 200 ohms At METERInG output: 1,200 ohms |
+| **Load impedances** | At insertion Point and outputs #1 and #2: 600 ohms balanced At MoNiTOR output: 1,200 ohms At METERING output: 1,200 ohms |
+| **Output levels** |  |
+| &nbsp;&nbsp;At insertion point | 0 dBm nomina] +30 dBm maximuM At outputs #1 and #2: +8 dBm nomina 1 +24 dBm maximum |
+| **Phasing** | Input and output termina ] s designated by numbers are in phase. |
+| **Power requirements** | 125 volts dc, 60 ma nominal 200 MA maximum. |
+| **Ambient temperature** | 0 to 6 0 degrees Celsius |
+| **Dimensions** | 1.6&quot; wide X 7&quot; high X 6,5&quot; deep (41 mm X 178 MM X 165 mm) |
+
+## Circuit description
+
+From [1979 - M477 - Master Module (2).pdf](MANUALS/1979%20-%20M477%20-%20Master%20Module%20(2).pdf) pages 6-9 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M477 1s designed to receive the mixed feeds fro. either.ixing channel inputs or sub.ast er inputs. These combined ~i gnlls are a.p llf ied tost and a r d line levels and there after fed to the main program outputs of the console sy s t e•. Input and Sum.lng Amplifier The signal o rl gi natlng fro. the external IIh ing network is ap pl led t o the summlng current nodes oft he input amplifier via edge COnnector pln s l / A.
+
+Ql through Q8 form a summing amplifier comp rl s l ng a balanced input and an unbalanced out put. to correct for small system level variations. trim pot R7 i sin cor por ated as part of the pr e amplifier. The differential balance adjustment control R6 serves t o minimize common mode type signals orig 1nat ing ahead of the ampl i f 1e r. e12 couples the output Oft he summing amplifier t o a low-pass filter consisting of R22. R23, R24, e 13, C14. C15 and 21. The 3 dB roll off point 15 loc. ted at approximately 40 kHz.
+
+The output of 21 1s coupled through CIS tot he output amplifier 8-I 09A.
+
+8·I09A Output Amplifier and IHS(RT The S-109A amplifier raises the nominal signal level to 0 dSm. The output is actively balanced and fed to the -insert po intI t pins 14/R.
+
+Pins 14/R Ire usually connected to I nor.alled set or insert jacks. with the output side connected tot he sub master fader. The (Id e r output i s returned t o the. odul eon pins 8/ J. a-109E BOOSTER Amplifier Th ls amplifier operates a t again of 29 dS. It recovers the
+
+I S dB -i nha nd&quot; loss incurred by the lIi xi n9 fader.nd provides
+
+.ddition. l g.i n resulting i n • no~i n.l 11ne level of +8 dBm
+
+.ft er p.s sing through. 6 dB, 600 ohm Is o1. t ion network.
+
+**H4 77 HASTER MODULE**
+
+Outputs Two 600 oh• • balanced outputs are provided, on pins 17/U and 16/T respectively, each with a. axi.u. output capability o f i24 dB.. A monitor output is available at pins 15/S to feed the input t o the &quot; 475. oni tor.o dule s. Pins 11/ H provide the feed fora standard vu. et e r circuit.
+
+Solo Out put The solo output i s fed via SW10 t o pins 7/H. The solo control appears on pins 18/ V.
+
+Power Supply Decouplin9 An active powers uppl y decoup l ing net wo r l Consisting of Q9 through 014 provides isolation between the module and the t2 5 volt sup ply rails. Transistors Q13 and Q14 monitor the supply current. Int he event of excessive power supply demandS. such as from component failure or amplifier overdrive, the current flowing through Qll and 012 w111 be limited.
+
+**H4 77 &quot;ASTER &quot; DOULE**
+
+PART OESCRIPTIOH MFG Hf G PART HUMB ER
+
+Capacitor 330 !I f 16, Ke.e t
+
+T390f337H006AS
+
+ca • delete
+
+CS • 10 p F Ph1l 1 ps 2222-638-1 0109
+
+C7 &quot; 15 p F • 2222-638-10 159 C8 &quot; 3.3 pf • 2222-6 3B-093 38
+
+10 u F/ 2 5, • Kellet
+
+33 uf /l 150 0 pf
+
+xse t ce
+
+**CQ92 - HC-152 H**
+
+C1 ' &quot; 220 pf Phfl fps 2222-6 30 -032 2 1 C15 &quot; 100 pF &quot; 2222 -638 -7 010 1
+
+C16 &quot; 10 pF &quot; 22 22 -638-10109 C17 &quot; 4.7 PF • 2222-638-09478 C18 • 33 uf /l O v Ke llet T39 003 36&quot;,0 10AS C19 • delete
+
+C21 • 0.022 !IF Ase lco CQ 92MC-22 3&quot; C22 • 22 uF/ 25 V Ph1l 1p s 426ETF 22
+
+CR) delete CR2 Diode Motor oh l N40 0 3
+
+01 Transistor Hat 1 anal 2N4401
+
+Q3 &quot; &quot; PM36 45
+
+O' &quot; &quot; 2M440 1
+
+J· l
+
+WARD - BECK SYSTEM BLT D.
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

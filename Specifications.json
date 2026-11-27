@@ -1,0 +1,276 @@
+{
+ "module": "M477",
+ "title": "M4Zl_MASIER_MQDULE",
+ "source": {
+  "file": "MANUALS/1979 - M477 - Master Module.pdf",
+  "page": 5
+ },
+ "ocr_quality": 0.93,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "8 dB ±0.5 dB (with fader in 15 dB in-hand\" position)",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dB"
+    },
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 15,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "±0.25 dB from 20 Hz to 20 kHz.",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "80 dB below +8 dBm nomina ] output Teve] (20 Hz to 20 kHz)",
+   "quantities": [
+    {
+     "value": 80,
+     "unit": "dB"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.25% from 30 Hz to 20 kHz at +24 dBm output or Tess (Typica]y Tess than 0.05% across Most of band - width.)",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "%"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 0.05,
+     "unit": "%"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Summing",
+     "text": "30,000 ohms baLanced.",
+     "quantities": [
+      {
+       "value": 30000,
+       "unit": "ohms"
+      }
+     ],
+     "key": "summing"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Summing",
+     "text": "Less than 5 ohms",
+     "quantities": [
+      {
+       "value": 5,
+       "unit": "ohms"
+      }
+     ],
+     "key": "summing"
+    }
+   ]
+  },
+  {
+   "name": "At 8-1094 output pins 14 /R",
+   "key": "at_8_1094_output_pins_14_r",
+   "text": "Les 5 than 100 ohms At outputs #1 and #2: 600 ohms At MONITOR output: 1 200 ohms At METERInG output: 1,200 ohms",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 200,
+     "unit": "ohms"
+    },
+    {
+     "value": 1200,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedances",
+   "key": "load_impedance",
+   "text": "At insertion Point and outputs #1 and #2: 600 ohms balanced At MoNiTOR output: 1,200 ohms At METERING output: 1,200 ohms",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 1200,
+     "unit": "ohms"
+    },
+    {
+     "value": 1200,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output levels",
+   "key": "output_level",
+   "text": "",
+   "items": [
+    {
+     "name": "At insertion point",
+     "text": "0 dBm nomina] +30 dBm maximuM At outputs #1 and #2: +8 dBm nomina 1 +24 dBm maximum",
+     "quantities": [
+      {
+       "value": 0,
+       "unit": "dBm"
+      },
+      {
+       "value": 30,
+       "unit": "dBm"
+      },
+      {
+       "value": 8,
+       "unit": "dBm"
+      },
+      {
+       "value": 24,
+       "unit": "dBm"
+      }
+     ],
+     "key": "at_insertion_point"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Input and output termina ] s designated by numbers are in phase."
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "125 volts dc, 60 ma nominal 200 MA maximum.",
+   "quantities": [
+    {
+     "value": 125,
+     "unit": "volts dc"
+    },
+    {
+     "value": 60,
+     "unit": "ma"
+    },
+    {
+     "value": 200,
+     "unit": "MA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "0 to 6 0 degrees Celsius",
+   "quantities": [
+    {
+     "value": 0,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "1.6\" wide X 7\" high X 6,5\" deep (41 mm X 178 MM X 165 mm)",
+   "quantities": [
+    {
+     "value": 1.6,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "mm"
+    },
+    {
+     "value": 178,
+     "unit": "MM"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  }
+ ]
+}
