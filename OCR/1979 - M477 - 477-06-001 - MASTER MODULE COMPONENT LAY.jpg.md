@@ -1,5 +1,5 @@
 # 1979 - M477 - 477-06-001 - MASTER MODULE COMPONENT LAY.jpg
-Wiki page: [M477](../../../../PAGES/M477.md)
+Wiki page: [M477](../)
 
 
 - **Year:** 1979 (module estimate (manual_issue))

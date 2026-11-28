@@ -1,5 +1,5 @@
 # 1979 - M477 - 477-01-001 - OHM MONITOR OUTPUT METERING OUTPUT SOLO SOLO SUMMING.jpg
-Wiki page: [M477](../../../../PAGES/M477.md)
+Wiki page: [M477](../)
 
 
 - **Year:** 1979 (module estimate (manual_issue))

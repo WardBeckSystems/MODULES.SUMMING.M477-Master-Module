@@ -1,6 +1,6 @@
 # M477 Master Module · Summing
 
-Ward-Beck Systems M477, 1979|12. Wiki page: [M477 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M477.html)
+Ward-Beck Systems M477, 1979|12. Wiki page: [M477 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M477-Master-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

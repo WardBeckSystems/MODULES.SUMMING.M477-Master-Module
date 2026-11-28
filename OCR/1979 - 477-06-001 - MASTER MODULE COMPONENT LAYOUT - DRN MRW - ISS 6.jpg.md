@@ -1,5 +1,5 @@
 # 1979 - 477-06-001 - MASTER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6.jpg
-Wiki page: [M477](../../../../PAGES/M477.md)
+Wiki page: [M477](../)
 
 
 - **Year:** 1979 (title block date)

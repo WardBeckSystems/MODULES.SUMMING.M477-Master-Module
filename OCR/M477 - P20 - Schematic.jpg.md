@@ -1,5 +1,5 @@
 # M477 - P20 - Schematic.jpg
-Wiki page: [M477](../../../../PAGES/M477.md)
+Wiki page: [M477](../)
 
 
 - **Year:** unknown (title block (read by eye))

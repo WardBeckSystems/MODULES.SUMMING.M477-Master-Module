@@ -1,5 +1,5 @@
 # 1979 - M477 - Master Module (2).pdf
-Wiki page: [M477](../../../../PAGES/M477.md)
+Wiki page: [M477](../)
 
 
 - **Year:** 1979 (found in this file: "I SSUE '4 BS W MARCil 1979")
