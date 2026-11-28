@@ -4,13 +4,12 @@ Ward-Beck Systems M477, 1979|12. Wiki page: [M477 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 40 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 190 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 4 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 39 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 189 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 40 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -148,8 +147,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOHhZaGQ2OXh3c3c/view?resourcekey=0-z32ewZtq8y1T6HHgS4pbZA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOHhZaGQ2OXh3c3c&resourcekey=0-z32ewZtq8y1T6HHgS4pbZA" width="240" alt="1979 - M477 - P27 - 8-109E-Booster Amp Layout.jpg"></a><br><sub>1979|12 · P27 - 8-109E-Booster Amp Layout · <a href="SCHEMATICS/1979%20-%20M477%20-%20P27%20-%208-109E-Booster%20Amp%20Layout%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1979 - 477-06-001 - MASTER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6.jpg`, `M477 - P20 - Schematic.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -157,8 +154,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRHZ4V3FmWGQyYTQ/view?resourcekey=0-WEpF_q0wAghcE0btKigGfA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRHZ4V3FmWGQyYTQ&resourcekey=0-WEpF_q0wAghcE0btKigGfA" width="240" alt="1979 - M477 - P22 - Pin Out.jpg"></a><br><sub>1979|12 · P22 - Pin Out · <a href="PINOUTS/1979%20-%20M477%20-%20P22%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M477 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -246,7 +241,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1979 - M477 - P20 - Schematic.kicad_sch](KICAD/1979%20-%20M477%20-%20P20%20-%20Schematic.kicad_sch)
 - [M477 - P20 - Schematic.kicad_sch](KICAD/M477%20-%20P20%20-%20Schematic.kicad_sch)
 - [M477.kicad_sym](KICAD/M477.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
